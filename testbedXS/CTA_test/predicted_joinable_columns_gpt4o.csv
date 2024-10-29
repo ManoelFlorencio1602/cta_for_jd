@@ -1,0 +1,761 @@
+ds_name,att_name,ds_name_2,att_name_2
+community-centres.csv,ADDRESS,community-gardens-and-food-trees.csv,STREET_TYPE
+community-centres.csv,ADDRESS,community-gardens-and-food-trees.csv,STREET_TYPE
+community-centres.csv,URLLINK,community-gardens-and-food-trees.csv,PUBLIC_E_MAIL
+community-centres.csv,URLLINK,community-gardens-and-food-trees.csv,PUBLIC_E_MAIL
+community-centres.csv,URLLINK,community-gardens-and-food-trees.csv,WEBSITE
+community-centres.csv,URLLINK,community-gardens-and-food-trees.csv,WEBSITE
+community-centres.csv,Geom,community-gardens-and-food-trees.csv,Geom
+community-centres.csv,Geo Local Area,community-gardens-and-food-trees.csv,STREET_NAME
+community-centres.csv,Geo Local Area,community-gardens-and-food-trees.csv,STREET_NAME
+community-centres.csv,Geo Local Area,community-gardens-and-food-trees.csv,MERGED_ADDRESS
+community-centres.csv,Geo Local Area,community-gardens-and-food-trees.csv,MERGED_ADDRESS
+community-centres.csv,Geo Local Area,community-gardens-and-food-trees.csv,Geo Local Area
+community-centres.csv,Geo Local Area,community-gardens-and-food-trees.csv,Geo Local Area
+community-centres.csv,URLLINK,cultural-spaces.csv,WEBSITE
+community-centres.csv,URLLINK,cultural-spaces.csv,WEBSITE
+community-centres.csv,Geom,cultural-spaces.csv,Geom
+community-centres.csv,Geo Local Area,cultural-spaces.csv,LOCAL_AREA
+community-centres.csv,Geo Local Area,cultural-spaces.csv,LOCAL_AREA
+community-centres.csv,Geo Local Area,eo_pr.csv,CITY
+community-centres.csv,Geo Local Area,eo_pr.csv,CITY
+community-centres.csv,NAME,libraries.csv,NAME
+community-centres.csv,NAME,libraries.csv,NAME
+community-centres.csv,URLLINK,libraries.csv,URLLINK
+community-centres.csv,URLLINK,libraries.csv,URLLINK
+community-centres.csv,Geom,libraries.csv,Geom
+community-centres.csv,Geo Local Area,libraries.csv,ADDRESS
+community-centres.csv,Geo Local Area,libraries.csv,ADDRESS
+community-centres.csv,Geo Local Area,libraries.csv,Geo Local Area
+community-centres.csv,Geo Local Area,libraries.csv,Geo Local Area
+community-centres.csv,URLLINK,public-art-artists.csv,ArtistURL
+community-centres.csv,URLLINK,public-art-artists.csv,ArtistURL
+community-centres.csv,URLLINK,public-art-artists.csv,Photo
+community-centres.csv,URLLINK,public-art-artists.csv,Photo
+community-centres.csv,URLLINK,public-art-artists.csv,Website
+community-centres.csv,URLLINK,public-art-artists.csv,Website
+community-centres.csv,URLLINK,public-art.csv,URL
+community-centres.csv,URLLINK,public-art.csv,URL
+community-centres.csv,URLLINK,public-art.csv,PhotoURL
+community-centres.csv,URLLINK,public-art.csv,PhotoURL
+community-centres.csv,Geom,public-art.csv,Geom
+community-centres.csv,Geo Local Area,public-art.csv,SiteAddress
+community-centres.csv,Geo Local Area,public-art.csv,SiteAddress
+community-centres.csv,Geo Local Area,public-art.csv,Neighbourhood
+community-centres.csv,Geo Local Area,public-art.csv,Neighbourhood
+community-centres.csv,Geo Local Area,public-art.csv,GeoLocalArea
+community-centres.csv,Geo Local Area,public-art.csv,GeoLocalArea
+community-centres.csv,ADDRESS,rental-standards-current-issues.csv,Street
+community-centres.csv,ADDRESS,rental-standards-current-issues.csv,Street
+community-centres.csv,Geom,rental-standards-current-issues.csv,Geom
+community-centres.csv,Geo Local Area,rental-standards-current-issues.csv,Geo Local Area
+community-centres.csv,Geo Local Area,rental-standards-current-issues.csv,Geo Local Area
+community-centres.csv,Geom,schools.csv,Geom
+community-centres.csv,Geo Local Area,schools.csv,Geo Local Area
+community-centres.csv,Geo Local Area,schools.csv,Geo Local Area
+community-centres.csv,Geom,statewise-census-data-in-india-1901-2011.csv,VALUE
+community-centres.csv,Geom,street-intersections.csv,Geom
+community-centres.csv,Geo Local Area,street-intersections.csv,XSTREET
+community-centres.csv,Geo Local Area,street-intersections.csv,XSTREET
+community-centres.csv,Geo Local Area,street-intersections.csv,Geo Local Area
+community-centres.csv,Geo Local Area,street-intersections.csv,Geo Local Area
+community-gardens-and-food-trees.csv,NAME,cultural-spaces.csv,CULTURAL_SPACE_NAME
+community-gardens-and-food-trees.csv,NAME,cultural-spaces.csv,CULTURAL_SPACE_NAME
+community-gardens-and-food-trees.csv,NAME,cultural-spaces.csv,TYPE
+community-gardens-and-food-trees.csv,NAME,cultural-spaces.csv,TYPE
+community-gardens-and-food-trees.csv,NAME,cultural-spaces.csv,PRIMARY_USE
+community-gardens-and-food-trees.csv,NAME,cultural-spaces.csv,PRIMARY_USE
+community-gardens-and-food-trees.csv,STREET_NAME,cultural-spaces.csv,LOCAL_AREA
+community-gardens-and-food-trees.csv,STREET_NAME,cultural-spaces.csv,LOCAL_AREA
+community-gardens-and-food-trees.csv,MERGED_ADDRESS,cultural-spaces.csv,LOCAL_AREA
+community-gardens-and-food-trees.csv,MERGED_ADDRESS,cultural-spaces.csv,LOCAL_AREA
+community-gardens-and-food-trees.csv,JURISDICTION,cultural-spaces.csv,OWNERSHIP
+community-gardens-and-food-trees.csv,JURISDICTION,cultural-spaces.csv,OWNERSHIP
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,cultural-spaces.csv,CULTURAL_SPACE_NAME
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,cultural-spaces.csv,CULTURAL_SPACE_NAME
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,cultural-spaces.csv,TYPE
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,cultural-spaces.csv,TYPE
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,cultural-spaces.csv,PRIMARY_USE
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,cultural-spaces.csv,PRIMARY_USE
+community-gardens-and-food-trees.csv,PUBLIC_E_MAIL,cultural-spaces.csv,WEBSITE
+community-gardens-and-food-trees.csv,PUBLIC_E_MAIL,cultural-spaces.csv,WEBSITE
+community-gardens-and-food-trees.csv,WEBSITE,cultural-spaces.csv,WEBSITE
+community-gardens-and-food-trees.csv,WEBSITE,cultural-spaces.csv,WEBSITE
+community-gardens-and-food-trees.csv,Geo Local Area,cultural-spaces.csv,LOCAL_AREA
+community-gardens-and-food-trees.csv,Geo Local Area,cultural-spaces.csv,LOCAL_AREA
+community-gardens-and-food-trees.csv,Geom,cultural-spaces.csv,Geom
+community-gardens-and-food-trees.csv,NAME,eo4.csv,NAME
+community-gardens-and-food-trees.csv,NAME,eo4.csv,NAME
+community-gardens-and-food-trees.csv,NAME,eo4.csv,ICO
+community-gardens-and-food-trees.csv,NAME,eo4.csv,ICO
+community-gardens-and-food-trees.csv,NAME,eo4.csv,SORT_NAME
+community-gardens-and-food-trees.csv,NAME,eo4.csv,SORT_NAME
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,eo4.csv,NAME
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,eo4.csv,NAME
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,eo4.csv,ICO
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,eo4.csv,ICO
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,eo4.csv,SORT_NAME
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,eo4.csv,SORT_NAME
+community-gardens-and-food-trees.csv,NAME,eo_pr.csv,NAME
+community-gardens-and-food-trees.csv,NAME,eo_pr.csv,NAME
+community-gardens-and-food-trees.csv,NAME,eo_pr.csv,ICO
+community-gardens-and-food-trees.csv,NAME,eo_pr.csv,ICO
+community-gardens-and-food-trees.csv,NAME,eo_pr.csv,SORT_NAME
+community-gardens-and-food-trees.csv,NAME,eo_pr.csv,SORT_NAME
+community-gardens-and-food-trees.csv,STREET_NAME,eo_pr.csv,CITY
+community-gardens-and-food-trees.csv,STREET_NAME,eo_pr.csv,CITY
+community-gardens-and-food-trees.csv,MERGED_ADDRESS,eo_pr.csv,CITY
+community-gardens-and-food-trees.csv,MERGED_ADDRESS,eo_pr.csv,CITY
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,eo_pr.csv,NAME
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,eo_pr.csv,NAME
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,eo_pr.csv,ICO
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,eo_pr.csv,ICO
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,eo_pr.csv,SORT_NAME
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,eo_pr.csv,SORT_NAME
+community-gardens-and-food-trees.csv,Geo Local Area,eo_pr.csv,CITY
+community-gardens-and-food-trees.csv,Geo Local Area,eo_pr.csv,CITY
+community-gardens-and-food-trees.csv,NAME,eo_xx.csv,NAME
+community-gardens-and-food-trees.csv,NAME,eo_xx.csv,NAME
+community-gardens-and-food-trees.csv,NAME,eo_xx.csv,ICO
+community-gardens-and-food-trees.csv,NAME,eo_xx.csv,ICO
+community-gardens-and-food-trees.csv,NAME,eo_xx.csv,SORT_NAME
+community-gardens-and-food-trees.csv,NAME,eo_xx.csv,SORT_NAME
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,eo_xx.csv,NAME
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,eo_xx.csv,NAME
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,eo_xx.csv,ICO
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,eo_xx.csv,ICO
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,eo_xx.csv,SORT_NAME
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,eo_xx.csv,SORT_NAME
+community-gardens-and-food-trees.csv,STREET_NAME,libraries.csv,ADDRESS
+community-gardens-and-food-trees.csv,STREET_NAME,libraries.csv,ADDRESS
+community-gardens-and-food-trees.csv,STREET_NAME,libraries.csv,Geo Local Area
+community-gardens-and-food-trees.csv,STREET_NAME,libraries.csv,Geo Local Area
+community-gardens-and-food-trees.csv,MERGED_ADDRESS,libraries.csv,ADDRESS
+community-gardens-and-food-trees.csv,MERGED_ADDRESS,libraries.csv,ADDRESS
+community-gardens-and-food-trees.csv,MERGED_ADDRESS,libraries.csv,Geo Local Area
+community-gardens-and-food-trees.csv,MERGED_ADDRESS,libraries.csv,Geo Local Area
+community-gardens-and-food-trees.csv,PUBLIC_E_MAIL,libraries.csv,URLLINK
+community-gardens-and-food-trees.csv,PUBLIC_E_MAIL,libraries.csv,URLLINK
+community-gardens-and-food-trees.csv,WEBSITE,libraries.csv,URLLINK
+community-gardens-and-food-trees.csv,WEBSITE,libraries.csv,URLLINK
+community-gardens-and-food-trees.csv,Geo Local Area,libraries.csv,ADDRESS
+community-gardens-and-food-trees.csv,Geo Local Area,libraries.csv,ADDRESS
+community-gardens-and-food-trees.csv,Geo Local Area,libraries.csv,Geo Local Area
+community-gardens-and-food-trees.csv,Geo Local Area,libraries.csv,Geo Local Area
+community-gardens-and-food-trees.csv,Geom,libraries.csv,Geom
+community-gardens-and-food-trees.csv,PUBLIC_E_MAIL,public-art-artists.csv,ArtistURL
+community-gardens-and-food-trees.csv,PUBLIC_E_MAIL,public-art-artists.csv,ArtistURL
+community-gardens-and-food-trees.csv,PUBLIC_E_MAIL,public-art-artists.csv,Photo
+community-gardens-and-food-trees.csv,PUBLIC_E_MAIL,public-art-artists.csv,Photo
+community-gardens-and-food-trees.csv,PUBLIC_E_MAIL,public-art-artists.csv,Website
+community-gardens-and-food-trees.csv,PUBLIC_E_MAIL,public-art-artists.csv,Website
+community-gardens-and-food-trees.csv,WEBSITE,public-art-artists.csv,ArtistURL
+community-gardens-and-food-trees.csv,WEBSITE,public-art-artists.csv,ArtistURL
+community-gardens-and-food-trees.csv,WEBSITE,public-art-artists.csv,Photo
+community-gardens-and-food-trees.csv,WEBSITE,public-art-artists.csv,Photo
+community-gardens-and-food-trees.csv,WEBSITE,public-art-artists.csv,Website
+community-gardens-and-food-trees.csv,WEBSITE,public-art-artists.csv,Website
+community-gardens-and-food-trees.csv,NAME,public-art.csv,ArtistProjectStatement
+community-gardens-and-food-trees.csv,NAME,public-art.csv,ArtistProjectStatement
+community-gardens-and-food-trees.csv,NAME,public-art.csv,Type
+community-gardens-and-food-trees.csv,NAME,public-art.csv,Type
+community-gardens-and-food-trees.csv,NAME,public-art.csv,SiteName
+community-gardens-and-food-trees.csv,NAME,public-art.csv,SiteName
+community-gardens-and-food-trees.csv,NAME,public-art.csv,Ownership
+community-gardens-and-food-trees.csv,NAME,public-art.csv,Ownership
+community-gardens-and-food-trees.csv,NAME,public-art.csv,LocationOnsite
+community-gardens-and-food-trees.csv,NAME,public-art.csv,LocationOnsite
+community-gardens-and-food-trees.csv,STREET_NAME,public-art.csv,SiteAddress
+community-gardens-and-food-trees.csv,STREET_NAME,public-art.csv,SiteAddress
+community-gardens-and-food-trees.csv,STREET_NAME,public-art.csv,Neighbourhood
+community-gardens-and-food-trees.csv,STREET_NAME,public-art.csv,Neighbourhood
+community-gardens-and-food-trees.csv,STREET_NAME,public-art.csv,GeoLocalArea
+community-gardens-and-food-trees.csv,STREET_NAME,public-art.csv,GeoLocalArea
+community-gardens-and-food-trees.csv,MERGED_ADDRESS,public-art.csv,SiteAddress
+community-gardens-and-food-trees.csv,MERGED_ADDRESS,public-art.csv,SiteAddress
+community-gardens-and-food-trees.csv,MERGED_ADDRESS,public-art.csv,Neighbourhood
+community-gardens-and-food-trees.csv,MERGED_ADDRESS,public-art.csv,Neighbourhood
+community-gardens-and-food-trees.csv,MERGED_ADDRESS,public-art.csv,GeoLocalArea
+community-gardens-and-food-trees.csv,MERGED_ADDRESS,public-art.csv,GeoLocalArea
+community-gardens-and-food-trees.csv,FOOD_TREE_VARIETIES,public-art.csv,DescriptionOfwork
+community-gardens-and-food-trees.csv,FOOD_TREE_VARIETIES,public-art.csv,DescriptionOfwork
+community-gardens-and-food-trees.csv,FOOD_TREE_VARIETIES,public-art.csv,PhotoCredits
+community-gardens-and-food-trees.csv,FOOD_TREE_VARIETIES,public-art.csv,PhotoCredits
+community-gardens-and-food-trees.csv,JURISDICTION,public-art.csv,Status
+community-gardens-and-food-trees.csv,JURISDICTION,public-art.csv,Status
+community-gardens-and-food-trees.csv,JURISDICTION,public-art.csv,PrimaryMaterial
+community-gardens-and-food-trees.csv,JURISDICTION,public-art.csv,PrimaryMaterial
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,public-art.csv,ArtistProjectStatement
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,public-art.csv,ArtistProjectStatement
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,public-art.csv,Type
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,public-art.csv,Type
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,public-art.csv,SiteName
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,public-art.csv,SiteName
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,public-art.csv,Ownership
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,public-art.csv,Ownership
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,public-art.csv,LocationOnsite
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,public-art.csv,LocationOnsite
+community-gardens-and-food-trees.csv,PUBLIC_E_MAIL,public-art.csv,URL
+community-gardens-and-food-trees.csv,PUBLIC_E_MAIL,public-art.csv,URL
+community-gardens-and-food-trees.csv,PUBLIC_E_MAIL,public-art.csv,PhotoURL
+community-gardens-and-food-trees.csv,PUBLIC_E_MAIL,public-art.csv,PhotoURL
+community-gardens-and-food-trees.csv,WEBSITE,public-art.csv,URL
+community-gardens-and-food-trees.csv,WEBSITE,public-art.csv,URL
+community-gardens-and-food-trees.csv,WEBSITE,public-art.csv,PhotoURL
+community-gardens-and-food-trees.csv,WEBSITE,public-art.csv,PhotoURL
+community-gardens-and-food-trees.csv,Geo Local Area,public-art.csv,SiteAddress
+community-gardens-and-food-trees.csv,Geo Local Area,public-art.csv,SiteAddress
+community-gardens-and-food-trees.csv,Geo Local Area,public-art.csv,Neighbourhood
+community-gardens-and-food-trees.csv,Geo Local Area,public-art.csv,Neighbourhood
+community-gardens-and-food-trees.csv,Geo Local Area,public-art.csv,GeoLocalArea
+community-gardens-and-food-trees.csv,Geo Local Area,public-art.csv,GeoLocalArea
+community-gardens-and-food-trees.csv,Geom,public-art.csv,Geom
+community-gardens-and-food-trees.csv,NAME,rental-standards-current-issues.csv,BUSINESSOPERATOR
+community-gardens-and-food-trees.csv,NAME,rental-standards-current-issues.csv,BUSINESSOPERATOR
+community-gardens-and-food-trees.csv,STREET_NAME,rental-standards-current-issues.csv,Geo Local Area
+community-gardens-and-food-trees.csv,STREET_NAME,rental-standards-current-issues.csv,Geo Local Area
+community-gardens-and-food-trees.csv,STREET_TYPE,rental-standards-current-issues.csv,Street
+community-gardens-and-food-trees.csv,STREET_TYPE,rental-standards-current-issues.csv,Street
+community-gardens-and-food-trees.csv,MERGED_ADDRESS,rental-standards-current-issues.csv,Geo Local Area
+community-gardens-and-food-trees.csv,MERGED_ADDRESS,rental-standards-current-issues.csv,Geo Local Area
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,rental-standards-current-issues.csv,BUSINESSOPERATOR
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,rental-standards-current-issues.csv,BUSINESSOPERATOR
+community-gardens-and-food-trees.csv,Geo Local Area,rental-standards-current-issues.csv,Geo Local Area
+community-gardens-and-food-trees.csv,Geo Local Area,rental-standards-current-issues.csv,Geo Local Area
+community-gardens-and-food-trees.csv,Geom,rental-standards-current-issues.csv,Geom
+community-gardens-and-food-trees.csv,NAME,schools.csv,SCHOOL_CATEGORY
+community-gardens-and-food-trees.csv,NAME,schools.csv,SCHOOL_CATEGORY
+community-gardens-and-food-trees.csv,NAME,schools.csv,SCHOOL_NAME
+community-gardens-and-food-trees.csv,NAME,schools.csv,SCHOOL_NAME
+community-gardens-and-food-trees.csv,STREET_NAME,schools.csv,Geo Local Area
+community-gardens-and-food-trees.csv,STREET_NAME,schools.csv,Geo Local Area
+community-gardens-and-food-trees.csv,MERGED_ADDRESS,schools.csv,Geo Local Area
+community-gardens-and-food-trees.csv,MERGED_ADDRESS,schools.csv,Geo Local Area
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,schools.csv,SCHOOL_CATEGORY
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,schools.csv,SCHOOL_CATEGORY
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,schools.csv,SCHOOL_NAME
+community-gardens-and-food-trees.csv,STEWARD_OR_MANAGING_ORGANIZATION,schools.csv,SCHOOL_NAME
+community-gardens-and-food-trees.csv,Geo Local Area,schools.csv,Geo Local Area
+community-gardens-and-food-trees.csv,Geo Local Area,schools.csv,Geo Local Area
+community-gardens-and-food-trees.csv,Geom,schools.csv,Geom
+community-gardens-and-food-trees.csv,Geom,statewise-census-data-in-india-1901-2011.csv,VALUE
+community-gardens-and-food-trees.csv,STREET_NAME,street-intersections.csv,XSTREET
+community-gardens-and-food-trees.csv,STREET_NAME,street-intersections.csv,XSTREET
+community-gardens-and-food-trees.csv,STREET_NAME,street-intersections.csv,Geo Local Area
+community-gardens-and-food-trees.csv,STREET_NAME,street-intersections.csv,Geo Local Area
+community-gardens-and-food-trees.csv,MERGED_ADDRESS,street-intersections.csv,XSTREET
+community-gardens-and-food-trees.csv,MERGED_ADDRESS,street-intersections.csv,XSTREET
+community-gardens-and-food-trees.csv,MERGED_ADDRESS,street-intersections.csv,Geo Local Area
+community-gardens-and-food-trees.csv,MERGED_ADDRESS,street-intersections.csv,Geo Local Area
+community-gardens-and-food-trees.csv,Geo Local Area,street-intersections.csv,XSTREET
+community-gardens-and-food-trees.csv,Geo Local Area,street-intersections.csv,XSTREET
+community-gardens-and-food-trees.csv,Geo Local Area,street-intersections.csv,Geo Local Area
+community-gardens-and-food-trees.csv,Geo Local Area,street-intersections.csv,Geo Local Area
+community-gardens-and-food-trees.csv,Geom,street-intersections.csv,Geom
+cultural-spaces.csv,CULTURAL_SPACE_NAME,eo4.csv,NAME
+cultural-spaces.csv,CULTURAL_SPACE_NAME,eo4.csv,NAME
+cultural-spaces.csv,CULTURAL_SPACE_NAME,eo4.csv,ICO
+cultural-spaces.csv,CULTURAL_SPACE_NAME,eo4.csv,ICO
+cultural-spaces.csv,CULTURAL_SPACE_NAME,eo4.csv,SORT_NAME
+cultural-spaces.csv,CULTURAL_SPACE_NAME,eo4.csv,SORT_NAME
+cultural-spaces.csv,TYPE,eo4.csv,NAME
+cultural-spaces.csv,TYPE,eo4.csv,NAME
+cultural-spaces.csv,TYPE,eo4.csv,ICO
+cultural-spaces.csv,TYPE,eo4.csv,ICO
+cultural-spaces.csv,TYPE,eo4.csv,SORT_NAME
+cultural-spaces.csv,TYPE,eo4.csv,SORT_NAME
+cultural-spaces.csv,PRIMARY_USE,eo4.csv,NAME
+cultural-spaces.csv,PRIMARY_USE,eo4.csv,NAME
+cultural-spaces.csv,PRIMARY_USE,eo4.csv,ICO
+cultural-spaces.csv,PRIMARY_USE,eo4.csv,ICO
+cultural-spaces.csv,PRIMARY_USE,eo4.csv,SORT_NAME
+cultural-spaces.csv,PRIMARY_USE,eo4.csv,SORT_NAME
+cultural-spaces.csv,CULTURAL_SPACE_NAME,eo_pr.csv,NAME
+cultural-spaces.csv,CULTURAL_SPACE_NAME,eo_pr.csv,NAME
+cultural-spaces.csv,CULTURAL_SPACE_NAME,eo_pr.csv,ICO
+cultural-spaces.csv,CULTURAL_SPACE_NAME,eo_pr.csv,ICO
+cultural-spaces.csv,CULTURAL_SPACE_NAME,eo_pr.csv,SORT_NAME
+cultural-spaces.csv,CULTURAL_SPACE_NAME,eo_pr.csv,SORT_NAME
+cultural-spaces.csv,TYPE,eo_pr.csv,NAME
+cultural-spaces.csv,TYPE,eo_pr.csv,NAME
+cultural-spaces.csv,TYPE,eo_pr.csv,ICO
+cultural-spaces.csv,TYPE,eo_pr.csv,ICO
+cultural-spaces.csv,TYPE,eo_pr.csv,SORT_NAME
+cultural-spaces.csv,TYPE,eo_pr.csv,SORT_NAME
+cultural-spaces.csv,PRIMARY_USE,eo_pr.csv,NAME
+cultural-spaces.csv,PRIMARY_USE,eo_pr.csv,NAME
+cultural-spaces.csv,PRIMARY_USE,eo_pr.csv,ICO
+cultural-spaces.csv,PRIMARY_USE,eo_pr.csv,ICO
+cultural-spaces.csv,PRIMARY_USE,eo_pr.csv,SORT_NAME
+cultural-spaces.csv,PRIMARY_USE,eo_pr.csv,SORT_NAME
+cultural-spaces.csv,LOCAL_AREA,eo_pr.csv,CITY
+cultural-spaces.csv,LOCAL_AREA,eo_pr.csv,CITY
+cultural-spaces.csv,CULTURAL_SPACE_NAME,eo_xx.csv,NAME
+cultural-spaces.csv,CULTURAL_SPACE_NAME,eo_xx.csv,NAME
+cultural-spaces.csv,CULTURAL_SPACE_NAME,eo_xx.csv,ICO
+cultural-spaces.csv,CULTURAL_SPACE_NAME,eo_xx.csv,ICO
+cultural-spaces.csv,CULTURAL_SPACE_NAME,eo_xx.csv,SORT_NAME
+cultural-spaces.csv,CULTURAL_SPACE_NAME,eo_xx.csv,SORT_NAME
+cultural-spaces.csv,TYPE,eo_xx.csv,NAME
+cultural-spaces.csv,TYPE,eo_xx.csv,NAME
+cultural-spaces.csv,TYPE,eo_xx.csv,ICO
+cultural-spaces.csv,TYPE,eo_xx.csv,ICO
+cultural-spaces.csv,TYPE,eo_xx.csv,SORT_NAME
+cultural-spaces.csv,TYPE,eo_xx.csv,SORT_NAME
+cultural-spaces.csv,PRIMARY_USE,eo_xx.csv,NAME
+cultural-spaces.csv,PRIMARY_USE,eo_xx.csv,NAME
+cultural-spaces.csv,PRIMARY_USE,eo_xx.csv,ICO
+cultural-spaces.csv,PRIMARY_USE,eo_xx.csv,ICO
+cultural-spaces.csv,PRIMARY_USE,eo_xx.csv,SORT_NAME
+cultural-spaces.csv,PRIMARY_USE,eo_xx.csv,SORT_NAME
+cultural-spaces.csv,ADDRESS,eo_xx.csv,STREET
+cultural-spaces.csv,ADDRESS,eo_xx.csv,STREET
+cultural-spaces.csv,WEBSITE,libraries.csv,URLLINK
+cultural-spaces.csv,WEBSITE,libraries.csv,URLLINK
+cultural-spaces.csv,LOCAL_AREA,libraries.csv,ADDRESS
+cultural-spaces.csv,LOCAL_AREA,libraries.csv,ADDRESS
+cultural-spaces.csv,LOCAL_AREA,libraries.csv,Geo Local Area
+cultural-spaces.csv,LOCAL_AREA,libraries.csv,Geo Local Area
+cultural-spaces.csv,Geom,libraries.csv,Geom
+cultural-spaces.csv,WEBSITE,public-art-artists.csv,ArtistURL
+cultural-spaces.csv,WEBSITE,public-art-artists.csv,ArtistURL
+cultural-spaces.csv,WEBSITE,public-art-artists.csv,Photo
+cultural-spaces.csv,WEBSITE,public-art-artists.csv,Photo
+cultural-spaces.csv,WEBSITE,public-art-artists.csv,Website
+cultural-spaces.csv,WEBSITE,public-art-artists.csv,Website
+cultural-spaces.csv,CULTURAL_SPACE_NAME,public-art.csv,ArtistProjectStatement
+cultural-spaces.csv,CULTURAL_SPACE_NAME,public-art.csv,ArtistProjectStatement
+cultural-spaces.csv,CULTURAL_SPACE_NAME,public-art.csv,Type
+cultural-spaces.csv,CULTURAL_SPACE_NAME,public-art.csv,Type
+cultural-spaces.csv,CULTURAL_SPACE_NAME,public-art.csv,SiteName
+cultural-spaces.csv,CULTURAL_SPACE_NAME,public-art.csv,SiteName
+cultural-spaces.csv,CULTURAL_SPACE_NAME,public-art.csv,Ownership
+cultural-spaces.csv,CULTURAL_SPACE_NAME,public-art.csv,Ownership
+cultural-spaces.csv,CULTURAL_SPACE_NAME,public-art.csv,LocationOnsite
+cultural-spaces.csv,CULTURAL_SPACE_NAME,public-art.csv,LocationOnsite
+cultural-spaces.csv,WEBSITE,public-art.csv,URL
+cultural-spaces.csv,WEBSITE,public-art.csv,URL
+cultural-spaces.csv,WEBSITE,public-art.csv,PhotoURL
+cultural-spaces.csv,WEBSITE,public-art.csv,PhotoURL
+cultural-spaces.csv,TYPE,public-art.csv,ArtistProjectStatement
+cultural-spaces.csv,TYPE,public-art.csv,ArtistProjectStatement
+cultural-spaces.csv,TYPE,public-art.csv,Type
+cultural-spaces.csv,TYPE,public-art.csv,Type
+cultural-spaces.csv,TYPE,public-art.csv,SiteName
+cultural-spaces.csv,TYPE,public-art.csv,SiteName
+cultural-spaces.csv,TYPE,public-art.csv,Ownership
+cultural-spaces.csv,TYPE,public-art.csv,Ownership
+cultural-spaces.csv,TYPE,public-art.csv,LocationOnsite
+cultural-spaces.csv,TYPE,public-art.csv,LocationOnsite
+cultural-spaces.csv,PRIMARY_USE,public-art.csv,ArtistProjectStatement
+cultural-spaces.csv,PRIMARY_USE,public-art.csv,ArtistProjectStatement
+cultural-spaces.csv,PRIMARY_USE,public-art.csv,Type
+cultural-spaces.csv,PRIMARY_USE,public-art.csv,Type
+cultural-spaces.csv,PRIMARY_USE,public-art.csv,SiteName
+cultural-spaces.csv,PRIMARY_USE,public-art.csv,SiteName
+cultural-spaces.csv,PRIMARY_USE,public-art.csv,Ownership
+cultural-spaces.csv,PRIMARY_USE,public-art.csv,Ownership
+cultural-spaces.csv,PRIMARY_USE,public-art.csv,LocationOnsite
+cultural-spaces.csv,PRIMARY_USE,public-art.csv,LocationOnsite
+cultural-spaces.csv,LOCAL_AREA,public-art.csv,SiteAddress
+cultural-spaces.csv,LOCAL_AREA,public-art.csv,SiteAddress
+cultural-spaces.csv,LOCAL_AREA,public-art.csv,Neighbourhood
+cultural-spaces.csv,LOCAL_AREA,public-art.csv,Neighbourhood
+cultural-spaces.csv,LOCAL_AREA,public-art.csv,GeoLocalArea
+cultural-spaces.csv,LOCAL_AREA,public-art.csv,GeoLocalArea
+cultural-spaces.csv,OWNERSHIP,public-art.csv,Status
+cultural-spaces.csv,OWNERSHIP,public-art.csv,Status
+cultural-spaces.csv,OWNERSHIP,public-art.csv,PrimaryMaterial
+cultural-spaces.csv,OWNERSHIP,public-art.csv,PrimaryMaterial
+cultural-spaces.csv,Geom,public-art.csv,Geom
+cultural-spaces.csv,CULTURAL_SPACE_NAME,rental-standards-current-issues.csv,BUSINESSOPERATOR
+cultural-spaces.csv,CULTURAL_SPACE_NAME,rental-standards-current-issues.csv,BUSINESSOPERATOR
+cultural-spaces.csv,TYPE,rental-standards-current-issues.csv,BUSINESSOPERATOR
+cultural-spaces.csv,TYPE,rental-standards-current-issues.csv,BUSINESSOPERATOR
+cultural-spaces.csv,PRIMARY_USE,rental-standards-current-issues.csv,BUSINESSOPERATOR
+cultural-spaces.csv,PRIMARY_USE,rental-standards-current-issues.csv,BUSINESSOPERATOR
+cultural-spaces.csv,LOCAL_AREA,rental-standards-current-issues.csv,Geo Local Area
+cultural-spaces.csv,LOCAL_AREA,rental-standards-current-issues.csv,Geo Local Area
+cultural-spaces.csv,Geom,rental-standards-current-issues.csv,Geom
+cultural-spaces.csv,CULTURAL_SPACE_NAME,schools.csv,SCHOOL_CATEGORY
+cultural-spaces.csv,CULTURAL_SPACE_NAME,schools.csv,SCHOOL_CATEGORY
+cultural-spaces.csv,CULTURAL_SPACE_NAME,schools.csv,SCHOOL_NAME
+cultural-spaces.csv,CULTURAL_SPACE_NAME,schools.csv,SCHOOL_NAME
+cultural-spaces.csv,TYPE,schools.csv,SCHOOL_CATEGORY
+cultural-spaces.csv,TYPE,schools.csv,SCHOOL_CATEGORY
+cultural-spaces.csv,TYPE,schools.csv,SCHOOL_NAME
+cultural-spaces.csv,TYPE,schools.csv,SCHOOL_NAME
+cultural-spaces.csv,PRIMARY_USE,schools.csv,SCHOOL_CATEGORY
+cultural-spaces.csv,PRIMARY_USE,schools.csv,SCHOOL_CATEGORY
+cultural-spaces.csv,PRIMARY_USE,schools.csv,SCHOOL_NAME
+cultural-spaces.csv,PRIMARY_USE,schools.csv,SCHOOL_NAME
+cultural-spaces.csv,LOCAL_AREA,schools.csv,Geo Local Area
+cultural-spaces.csv,LOCAL_AREA,schools.csv,Geo Local Area
+cultural-spaces.csv,Geom,schools.csv,Geom
+cultural-spaces.csv,Geom,statewise-census-data-in-india-1901-2011.csv,VALUE
+cultural-spaces.csv,LOCAL_AREA,street-intersections.csv,XSTREET
+cultural-spaces.csv,LOCAL_AREA,street-intersections.csv,XSTREET
+cultural-spaces.csv,LOCAL_AREA,street-intersections.csv,Geo Local Area
+cultural-spaces.csv,LOCAL_AREA,street-intersections.csv,Geo Local Area
+cultural-spaces.csv,Geom,street-intersections.csv,Geom
+eo4.csv,NAME,eo_pr.csv,NAME
+eo4.csv,NAME,eo_pr.csv,NAME
+eo4.csv,NAME,eo_pr.csv,ICO
+eo4.csv,NAME,eo_pr.csv,ICO
+eo4.csv,NAME,eo_pr.csv,SORT_NAME
+eo4.csv,NAME,eo_pr.csv,SORT_NAME
+eo4.csv,ICO,eo_pr.csv,NAME
+eo4.csv,ICO,eo_pr.csv,NAME
+eo4.csv,ICO,eo_pr.csv,ICO
+eo4.csv,ICO,eo_pr.csv,ICO
+eo4.csv,ICO,eo_pr.csv,SORT_NAME
+eo4.csv,ICO,eo_pr.csv,SORT_NAME
+eo4.csv,ZIP,eo_pr.csv,ZIP
+eo4.csv,ZIP,eo_pr.csv,ZIP
+eo4.csv,SORT_NAME,eo_pr.csv,NAME
+eo4.csv,SORT_NAME,eo_pr.csv,NAME
+eo4.csv,SORT_NAME,eo_pr.csv,ICO
+eo4.csv,SORT_NAME,eo_pr.csv,ICO
+eo4.csv,SORT_NAME,eo_pr.csv,SORT_NAME
+eo4.csv,SORT_NAME,eo_pr.csv,SORT_NAME
+eo4.csv,NAME,eo_xx.csv,NAME
+eo4.csv,NAME,eo_xx.csv,NAME
+eo4.csv,NAME,eo_xx.csv,ICO
+eo4.csv,NAME,eo_xx.csv,ICO
+eo4.csv,NAME,eo_xx.csv,SORT_NAME
+eo4.csv,NAME,eo_xx.csv,SORT_NAME
+eo4.csv,ICO,eo_xx.csv,NAME
+eo4.csv,ICO,eo_xx.csv,NAME
+eo4.csv,ICO,eo_xx.csv,ICO
+eo4.csv,ICO,eo_xx.csv,ICO
+eo4.csv,ICO,eo_xx.csv,SORT_NAME
+eo4.csv,ICO,eo_xx.csv,SORT_NAME
+eo4.csv,CITY,eo_xx.csv,CITY
+eo4.csv,CITY,eo_xx.csv,CITY
+eo4.csv,ZIP,eo_xx.csv,ZIP
+eo4.csv,ZIP,eo_xx.csv,ZIP
+eo4.csv,SORT_NAME,eo_xx.csv,NAME
+eo4.csv,SORT_NAME,eo_xx.csv,NAME
+eo4.csv,SORT_NAME,eo_xx.csv,ICO
+eo4.csv,SORT_NAME,eo_xx.csv,ICO
+eo4.csv,SORT_NAME,eo_xx.csv,SORT_NAME
+eo4.csv,SORT_NAME,eo_xx.csv,SORT_NAME
+eo4.csv,NAME,public-art.csv,ArtistProjectStatement
+eo4.csv,NAME,public-art.csv,ArtistProjectStatement
+eo4.csv,NAME,public-art.csv,Type
+eo4.csv,NAME,public-art.csv,Type
+eo4.csv,NAME,public-art.csv,SiteName
+eo4.csv,NAME,public-art.csv,SiteName
+eo4.csv,NAME,public-art.csv,Ownership
+eo4.csv,NAME,public-art.csv,Ownership
+eo4.csv,NAME,public-art.csv,LocationOnsite
+eo4.csv,NAME,public-art.csv,LocationOnsite
+eo4.csv,ICO,public-art.csv,ArtistProjectStatement
+eo4.csv,ICO,public-art.csv,ArtistProjectStatement
+eo4.csv,ICO,public-art.csv,Type
+eo4.csv,ICO,public-art.csv,Type
+eo4.csv,ICO,public-art.csv,SiteName
+eo4.csv,ICO,public-art.csv,SiteName
+eo4.csv,ICO,public-art.csv,Ownership
+eo4.csv,ICO,public-art.csv,Ownership
+eo4.csv,ICO,public-art.csv,LocationOnsite
+eo4.csv,ICO,public-art.csv,LocationOnsite
+eo4.csv,SORT_NAME,public-art.csv,ArtistProjectStatement
+eo4.csv,SORT_NAME,public-art.csv,ArtistProjectStatement
+eo4.csv,SORT_NAME,public-art.csv,Type
+eo4.csv,SORT_NAME,public-art.csv,Type
+eo4.csv,SORT_NAME,public-art.csv,SiteName
+eo4.csv,SORT_NAME,public-art.csv,SiteName
+eo4.csv,SORT_NAME,public-art.csv,Ownership
+eo4.csv,SORT_NAME,public-art.csv,Ownership
+eo4.csv,SORT_NAME,public-art.csv,LocationOnsite
+eo4.csv,SORT_NAME,public-art.csv,LocationOnsite
+eo4.csv,NAME,rental-standards-current-issues.csv,BUSINESSOPERATOR
+eo4.csv,NAME,rental-standards-current-issues.csv,BUSINESSOPERATOR
+eo4.csv,ICO,rental-standards-current-issues.csv,BUSINESSOPERATOR
+eo4.csv,ICO,rental-standards-current-issues.csv,BUSINESSOPERATOR
+eo4.csv,SORT_NAME,rental-standards-current-issues.csv,BUSINESSOPERATOR
+eo4.csv,SORT_NAME,rental-standards-current-issues.csv,BUSINESSOPERATOR
+eo4.csv,NAME,schools.csv,SCHOOL_CATEGORY
+eo4.csv,NAME,schools.csv,SCHOOL_CATEGORY
+eo4.csv,NAME,schools.csv,SCHOOL_NAME
+eo4.csv,NAME,schools.csv,SCHOOL_NAME
+eo4.csv,ICO,schools.csv,SCHOOL_CATEGORY
+eo4.csv,ICO,schools.csv,SCHOOL_CATEGORY
+eo4.csv,ICO,schools.csv,SCHOOL_NAME
+eo4.csv,ICO,schools.csv,SCHOOL_NAME
+eo4.csv,SORT_NAME,schools.csv,SCHOOL_CATEGORY
+eo4.csv,SORT_NAME,schools.csv,SCHOOL_CATEGORY
+eo4.csv,SORT_NAME,schools.csv,SCHOOL_NAME
+eo4.csv,SORT_NAME,schools.csv,SCHOOL_NAME
+eo_pr.csv,NAME,eo_xx.csv,NAME
+eo_pr.csv,NAME,eo_xx.csv,NAME
+eo_pr.csv,NAME,eo_xx.csv,ICO
+eo_pr.csv,NAME,eo_xx.csv,ICO
+eo_pr.csv,NAME,eo_xx.csv,SORT_NAME
+eo_pr.csv,NAME,eo_xx.csv,SORT_NAME
+eo_pr.csv,ICO,eo_xx.csv,NAME
+eo_pr.csv,ICO,eo_xx.csv,NAME
+eo_pr.csv,ICO,eo_xx.csv,ICO
+eo_pr.csv,ICO,eo_xx.csv,ICO
+eo_pr.csv,ICO,eo_xx.csv,SORT_NAME
+eo_pr.csv,ICO,eo_xx.csv,SORT_NAME
+eo_pr.csv,ZIP,eo_xx.csv,ZIP
+eo_pr.csv,ZIP,eo_xx.csv,ZIP
+eo_pr.csv,SORT_NAME,eo_xx.csv,NAME
+eo_pr.csv,SORT_NAME,eo_xx.csv,NAME
+eo_pr.csv,SORT_NAME,eo_xx.csv,ICO
+eo_pr.csv,SORT_NAME,eo_xx.csv,ICO
+eo_pr.csv,SORT_NAME,eo_xx.csv,SORT_NAME
+eo_pr.csv,SORT_NAME,eo_xx.csv,SORT_NAME
+eo_pr.csv,CITY,libraries.csv,ADDRESS
+eo_pr.csv,CITY,libraries.csv,ADDRESS
+eo_pr.csv,CITY,libraries.csv,Geo Local Area
+eo_pr.csv,CITY,libraries.csv,Geo Local Area
+eo_pr.csv,NAME,public-art.csv,ArtistProjectStatement
+eo_pr.csv,NAME,public-art.csv,ArtistProjectStatement
+eo_pr.csv,NAME,public-art.csv,Type
+eo_pr.csv,NAME,public-art.csv,Type
+eo_pr.csv,NAME,public-art.csv,SiteName
+eo_pr.csv,NAME,public-art.csv,SiteName
+eo_pr.csv,NAME,public-art.csv,Ownership
+eo_pr.csv,NAME,public-art.csv,Ownership
+eo_pr.csv,NAME,public-art.csv,LocationOnsite
+eo_pr.csv,NAME,public-art.csv,LocationOnsite
+eo_pr.csv,ICO,public-art.csv,ArtistProjectStatement
+eo_pr.csv,ICO,public-art.csv,ArtistProjectStatement
+eo_pr.csv,ICO,public-art.csv,Type
+eo_pr.csv,ICO,public-art.csv,Type
+eo_pr.csv,ICO,public-art.csv,SiteName
+eo_pr.csv,ICO,public-art.csv,SiteName
+eo_pr.csv,ICO,public-art.csv,Ownership
+eo_pr.csv,ICO,public-art.csv,Ownership
+eo_pr.csv,ICO,public-art.csv,LocationOnsite
+eo_pr.csv,ICO,public-art.csv,LocationOnsite
+eo_pr.csv,CITY,public-art.csv,SiteAddress
+eo_pr.csv,CITY,public-art.csv,SiteAddress
+eo_pr.csv,CITY,public-art.csv,Neighbourhood
+eo_pr.csv,CITY,public-art.csv,Neighbourhood
+eo_pr.csv,CITY,public-art.csv,GeoLocalArea
+eo_pr.csv,CITY,public-art.csv,GeoLocalArea
+eo_pr.csv,SORT_NAME,public-art.csv,ArtistProjectStatement
+eo_pr.csv,SORT_NAME,public-art.csv,ArtistProjectStatement
+eo_pr.csv,SORT_NAME,public-art.csv,Type
+eo_pr.csv,SORT_NAME,public-art.csv,Type
+eo_pr.csv,SORT_NAME,public-art.csv,SiteName
+eo_pr.csv,SORT_NAME,public-art.csv,SiteName
+eo_pr.csv,SORT_NAME,public-art.csv,Ownership
+eo_pr.csv,SORT_NAME,public-art.csv,Ownership
+eo_pr.csv,SORT_NAME,public-art.csv,LocationOnsite
+eo_pr.csv,SORT_NAME,public-art.csv,LocationOnsite
+eo_pr.csv,NAME,rental-standards-current-issues.csv,BUSINESSOPERATOR
+eo_pr.csv,NAME,rental-standards-current-issues.csv,BUSINESSOPERATOR
+eo_pr.csv,ICO,rental-standards-current-issues.csv,BUSINESSOPERATOR
+eo_pr.csv,ICO,rental-standards-current-issues.csv,BUSINESSOPERATOR
+eo_pr.csv,CITY,rental-standards-current-issues.csv,Geo Local Area
+eo_pr.csv,CITY,rental-standards-current-issues.csv,Geo Local Area
+eo_pr.csv,SORT_NAME,rental-standards-current-issues.csv,BUSINESSOPERATOR
+eo_pr.csv,SORT_NAME,rental-standards-current-issues.csv,BUSINESSOPERATOR
+eo_pr.csv,NAME,schools.csv,SCHOOL_CATEGORY
+eo_pr.csv,NAME,schools.csv,SCHOOL_CATEGORY
+eo_pr.csv,NAME,schools.csv,SCHOOL_NAME
+eo_pr.csv,NAME,schools.csv,SCHOOL_NAME
+eo_pr.csv,ICO,schools.csv,SCHOOL_CATEGORY
+eo_pr.csv,ICO,schools.csv,SCHOOL_CATEGORY
+eo_pr.csv,ICO,schools.csv,SCHOOL_NAME
+eo_pr.csv,ICO,schools.csv,SCHOOL_NAME
+eo_pr.csv,STREET,schools.csv,ADDRESS
+eo_pr.csv,STREET,schools.csv,ADDRESS
+eo_pr.csv,CITY,schools.csv,Geo Local Area
+eo_pr.csv,CITY,schools.csv,Geo Local Area
+eo_pr.csv,SORT_NAME,schools.csv,SCHOOL_CATEGORY
+eo_pr.csv,SORT_NAME,schools.csv,SCHOOL_CATEGORY
+eo_pr.csv,SORT_NAME,schools.csv,SCHOOL_NAME
+eo_pr.csv,SORT_NAME,schools.csv,SCHOOL_NAME
+eo_pr.csv,CITY,street-intersections.csv,XSTREET
+eo_pr.csv,CITY,street-intersections.csv,XSTREET
+eo_pr.csv,CITY,street-intersections.csv,Geo Local Area
+eo_pr.csv,CITY,street-intersections.csv,Geo Local Area
+eo_xx.csv,NAME,public-art.csv,ArtistProjectStatement
+eo_xx.csv,NAME,public-art.csv,ArtistProjectStatement
+eo_xx.csv,NAME,public-art.csv,Type
+eo_xx.csv,NAME,public-art.csv,Type
+eo_xx.csv,NAME,public-art.csv,SiteName
+eo_xx.csv,NAME,public-art.csv,SiteName
+eo_xx.csv,NAME,public-art.csv,Ownership
+eo_xx.csv,NAME,public-art.csv,Ownership
+eo_xx.csv,NAME,public-art.csv,LocationOnsite
+eo_xx.csv,NAME,public-art.csv,LocationOnsite
+eo_xx.csv,ICO,public-art.csv,ArtistProjectStatement
+eo_xx.csv,ICO,public-art.csv,ArtistProjectStatement
+eo_xx.csv,ICO,public-art.csv,Type
+eo_xx.csv,ICO,public-art.csv,Type
+eo_xx.csv,ICO,public-art.csv,SiteName
+eo_xx.csv,ICO,public-art.csv,SiteName
+eo_xx.csv,ICO,public-art.csv,Ownership
+eo_xx.csv,ICO,public-art.csv,Ownership
+eo_xx.csv,ICO,public-art.csv,LocationOnsite
+eo_xx.csv,ICO,public-art.csv,LocationOnsite
+eo_xx.csv,SORT_NAME,public-art.csv,ArtistProjectStatement
+eo_xx.csv,SORT_NAME,public-art.csv,ArtistProjectStatement
+eo_xx.csv,SORT_NAME,public-art.csv,Type
+eo_xx.csv,SORT_NAME,public-art.csv,Type
+eo_xx.csv,SORT_NAME,public-art.csv,SiteName
+eo_xx.csv,SORT_NAME,public-art.csv,SiteName
+eo_xx.csv,SORT_NAME,public-art.csv,Ownership
+eo_xx.csv,SORT_NAME,public-art.csv,Ownership
+eo_xx.csv,SORT_NAME,public-art.csv,LocationOnsite
+eo_xx.csv,SORT_NAME,public-art.csv,LocationOnsite
+eo_xx.csv,NAME,rental-standards-current-issues.csv,BUSINESSOPERATOR
+eo_xx.csv,NAME,rental-standards-current-issues.csv,BUSINESSOPERATOR
+eo_xx.csv,ICO,rental-standards-current-issues.csv,BUSINESSOPERATOR
+eo_xx.csv,ICO,rental-standards-current-issues.csv,BUSINESSOPERATOR
+eo_xx.csv,SORT_NAME,rental-standards-current-issues.csv,BUSINESSOPERATOR
+eo_xx.csv,SORT_NAME,rental-standards-current-issues.csv,BUSINESSOPERATOR
+eo_xx.csv,NAME,schools.csv,SCHOOL_CATEGORY
+eo_xx.csv,NAME,schools.csv,SCHOOL_CATEGORY
+eo_xx.csv,NAME,schools.csv,SCHOOL_NAME
+eo_xx.csv,NAME,schools.csv,SCHOOL_NAME
+eo_xx.csv,ICO,schools.csv,SCHOOL_CATEGORY
+eo_xx.csv,ICO,schools.csv,SCHOOL_CATEGORY
+eo_xx.csv,ICO,schools.csv,SCHOOL_NAME
+eo_xx.csv,ICO,schools.csv,SCHOOL_NAME
+eo_xx.csv,SORT_NAME,schools.csv,SCHOOL_CATEGORY
+eo_xx.csv,SORT_NAME,schools.csv,SCHOOL_CATEGORY
+eo_xx.csv,SORT_NAME,schools.csv,SCHOOL_NAME
+eo_xx.csv,SORT_NAME,schools.csv,SCHOOL_NAME
+libraries.csv,URLLINK,public-art-artists.csv,ArtistURL
+libraries.csv,URLLINK,public-art-artists.csv,ArtistURL
+libraries.csv,URLLINK,public-art-artists.csv,Photo
+libraries.csv,URLLINK,public-art-artists.csv,Photo
+libraries.csv,URLLINK,public-art-artists.csv,Website
+libraries.csv,URLLINK,public-art-artists.csv,Website
+libraries.csv,ADDRESS,public-art.csv,SiteAddress
+libraries.csv,ADDRESS,public-art.csv,SiteAddress
+libraries.csv,ADDRESS,public-art.csv,Neighbourhood
+libraries.csv,ADDRESS,public-art.csv,Neighbourhood
+libraries.csv,ADDRESS,public-art.csv,GeoLocalArea
+libraries.csv,ADDRESS,public-art.csv,GeoLocalArea
+libraries.csv,URLLINK,public-art.csv,URL
+libraries.csv,URLLINK,public-art.csv,URL
+libraries.csv,URLLINK,public-art.csv,PhotoURL
+libraries.csv,URLLINK,public-art.csv,PhotoURL
+libraries.csv,Geom,public-art.csv,Geom
+libraries.csv,Geo Local Area,public-art.csv,SiteAddress
+libraries.csv,Geo Local Area,public-art.csv,SiteAddress
+libraries.csv,Geo Local Area,public-art.csv,Neighbourhood
+libraries.csv,Geo Local Area,public-art.csv,Neighbourhood
+libraries.csv,Geo Local Area,public-art.csv,GeoLocalArea
+libraries.csv,Geo Local Area,public-art.csv,GeoLocalArea
+libraries.csv,ADDRESS,rental-standards-current-issues.csv,Geo Local Area
+libraries.csv,ADDRESS,rental-standards-current-issues.csv,Geo Local Area
+libraries.csv,Geom,rental-standards-current-issues.csv,Geom
+libraries.csv,Geo Local Area,rental-standards-current-issues.csv,Geo Local Area
+libraries.csv,Geo Local Area,rental-standards-current-issues.csv,Geo Local Area
+libraries.csv,ADDRESS,schools.csv,Geo Local Area
+libraries.csv,ADDRESS,schools.csv,Geo Local Area
+libraries.csv,Geom,schools.csv,Geom
+libraries.csv,Geo Local Area,schools.csv,Geo Local Area
+libraries.csv,Geo Local Area,schools.csv,Geo Local Area
+libraries.csv,Geom,statewise-census-data-in-india-1901-2011.csv,VALUE
+libraries.csv,ADDRESS,street-intersections.csv,XSTREET
+libraries.csv,ADDRESS,street-intersections.csv,XSTREET
+libraries.csv,ADDRESS,street-intersections.csv,Geo Local Area
+libraries.csv,ADDRESS,street-intersections.csv,Geo Local Area
+libraries.csv,Geom,street-intersections.csv,Geom
+libraries.csv,Geo Local Area,street-intersections.csv,XSTREET
+libraries.csv,Geo Local Area,street-intersections.csv,XSTREET
+libraries.csv,Geo Local Area,street-intersections.csv,Geo Local Area
+libraries.csv,Geo Local Area,street-intersections.csv,Geo Local Area
+population-census-of-botswana-2011.csv,FREQUENCY,statewise-census-data-in-india-1901-2011.csv,VARIABLE_NAME
+population-census-of-botswana-2011.csv,FREQUENCY,statewise-census-data-in-india-1901-2011.csv,VARIABLE_NAME
+public-art-artists.csv,ArtistURL,public-art.csv,URL
+public-art-artists.csv,ArtistURL,public-art.csv,URL
+public-art-artists.csv,ArtistURL,public-art.csv,PhotoURL
+public-art-artists.csv,ArtistURL,public-art.csv,PhotoURL
+public-art-artists.csv,Photo,public-art.csv,URL
+public-art-artists.csv,Photo,public-art.csv,URL
+public-art-artists.csv,Photo,public-art.csv,PhotoURL
+public-art-artists.csv,Photo,public-art.csv,PhotoURL
+public-art-artists.csv,Website,public-art.csv,URL
+public-art-artists.csv,Website,public-art.csv,URL
+public-art-artists.csv,Website,public-art.csv,PhotoURL
+public-art-artists.csv,Website,public-art.csv,PhotoURL
+public-art.csv,ArtistProjectStatement,rental-standards-current-issues.csv,BUSINESSOPERATOR
+public-art.csv,ArtistProjectStatement,rental-standards-current-issues.csv,BUSINESSOPERATOR
+public-art.csv,Type,rental-standards-current-issues.csv,BUSINESSOPERATOR
+public-art.csv,Type,rental-standards-current-issues.csv,BUSINESSOPERATOR
+public-art.csv,SiteName,rental-standards-current-issues.csv,BUSINESSOPERATOR
+public-art.csv,SiteName,rental-standards-current-issues.csv,BUSINESSOPERATOR
+public-art.csv,SiteAddress,rental-standards-current-issues.csv,Geo Local Area
+public-art.csv,SiteAddress,rental-standards-current-issues.csv,Geo Local Area
+public-art.csv,Ownership,rental-standards-current-issues.csv,BUSINESSOPERATOR
+public-art.csv,Ownership,rental-standards-current-issues.csv,BUSINESSOPERATOR
+public-art.csv,Neighbourhood,rental-standards-current-issues.csv,Geo Local Area
+public-art.csv,Neighbourhood,rental-standards-current-issues.csv,Geo Local Area
+public-art.csv,LocationOnsite,rental-standards-current-issues.csv,BUSINESSOPERATOR
+public-art.csv,LocationOnsite,rental-standards-current-issues.csv,BUSINESSOPERATOR
+public-art.csv,Geom,rental-standards-current-issues.csv,Geom
+public-art.csv,GeoLocalArea,rental-standards-current-issues.csv,Geo Local Area
+public-art.csv,GeoLocalArea,rental-standards-current-issues.csv,Geo Local Area
+public-art.csv,ArtistProjectStatement,schools.csv,SCHOOL_CATEGORY
+public-art.csv,ArtistProjectStatement,schools.csv,SCHOOL_CATEGORY
+public-art.csv,ArtistProjectStatement,schools.csv,SCHOOL_NAME
+public-art.csv,ArtistProjectStatement,schools.csv,SCHOOL_NAME
+public-art.csv,Type,schools.csv,SCHOOL_CATEGORY
+public-art.csv,Type,schools.csv,SCHOOL_CATEGORY
+public-art.csv,Type,schools.csv,SCHOOL_NAME
+public-art.csv,Type,schools.csv,SCHOOL_NAME
+public-art.csv,SiteName,schools.csv,SCHOOL_CATEGORY
+public-art.csv,SiteName,schools.csv,SCHOOL_CATEGORY
+public-art.csv,SiteName,schools.csv,SCHOOL_NAME
+public-art.csv,SiteName,schools.csv,SCHOOL_NAME
+public-art.csv,SiteAddress,schools.csv,Geo Local Area
+public-art.csv,SiteAddress,schools.csv,Geo Local Area
+public-art.csv,Ownership,schools.csv,SCHOOL_CATEGORY
+public-art.csv,Ownership,schools.csv,SCHOOL_CATEGORY
+public-art.csv,Ownership,schools.csv,SCHOOL_NAME
+public-art.csv,Ownership,schools.csv,SCHOOL_NAME
+public-art.csv,Neighbourhood,schools.csv,Geo Local Area
+public-art.csv,Neighbourhood,schools.csv,Geo Local Area
+public-art.csv,LocationOnsite,schools.csv,SCHOOL_CATEGORY
+public-art.csv,LocationOnsite,schools.csv,SCHOOL_CATEGORY
+public-art.csv,LocationOnsite,schools.csv,SCHOOL_NAME
+public-art.csv,LocationOnsite,schools.csv,SCHOOL_NAME
+public-art.csv,Geom,schools.csv,Geom
+public-art.csv,GeoLocalArea,schools.csv,Geo Local Area
+public-art.csv,GeoLocalArea,schools.csv,Geo Local Area
+public-art.csv,Geom,statewise-census-data-in-india-1901-2011.csv,VALUE
+public-art.csv,SiteAddress,street-intersections.csv,XSTREET
+public-art.csv,SiteAddress,street-intersections.csv,XSTREET
+public-art.csv,SiteAddress,street-intersections.csv,Geo Local Area
+public-art.csv,SiteAddress,street-intersections.csv,Geo Local Area
+public-art.csv,Neighbourhood,street-intersections.csv,XSTREET
+public-art.csv,Neighbourhood,street-intersections.csv,XSTREET
+public-art.csv,Neighbourhood,street-intersections.csv,Geo Local Area
+public-art.csv,Neighbourhood,street-intersections.csv,Geo Local Area
+public-art.csv,Geom,street-intersections.csv,Geom
+public-art.csv,GeoLocalArea,street-intersections.csv,XSTREET
+public-art.csv,GeoLocalArea,street-intersections.csv,XSTREET
+public-art.csv,GeoLocalArea,street-intersections.csv,Geo Local Area
+public-art.csv,GeoLocalArea,street-intersections.csv,Geo Local Area
+rental-standards-current-issues.csv,BUSINESSOPERATOR,schools.csv,SCHOOL_CATEGORY
+rental-standards-current-issues.csv,BUSINESSOPERATOR,schools.csv,SCHOOL_CATEGORY
+rental-standards-current-issues.csv,BUSINESSOPERATOR,schools.csv,SCHOOL_NAME
+rental-standards-current-issues.csv,BUSINESSOPERATOR,schools.csv,SCHOOL_NAME
+rental-standards-current-issues.csv,Geom,schools.csv,Geom
+rental-standards-current-issues.csv,Geo Local Area,schools.csv,Geo Local Area
+rental-standards-current-issues.csv,Geo Local Area,schools.csv,Geo Local Area
+rental-standards-current-issues.csv,Geom,statewise-census-data-in-india-1901-2011.csv,VALUE
+rental-standards-current-issues.csv,Geom,street-intersections.csv,Geom
+rental-standards-current-issues.csv,Geo Local Area,street-intersections.csv,XSTREET
+rental-standards-current-issues.csv,Geo Local Area,street-intersections.csv,XSTREET
+rental-standards-current-issues.csv,Geo Local Area,street-intersections.csv,Geo Local Area
+rental-standards-current-issues.csv,Geo Local Area,street-intersections.csv,Geo Local Area
+schools.csv,Geom,statewise-census-data-in-india-1901-2011.csv,VALUE
+schools.csv,Geom,street-intersections.csv,Geom
+schools.csv,Geo Local Area,street-intersections.csv,XSTREET
+schools.csv,Geo Local Area,street-intersections.csv,XSTREET
+schools.csv,Geo Local Area,street-intersections.csv,Geo Local Area
+schools.csv,Geo Local Area,street-intersections.csv,Geo Local Area
+statewise-census-data-in-india-1901-2011.csv,VALUE,street-intersections.csv,Geom
