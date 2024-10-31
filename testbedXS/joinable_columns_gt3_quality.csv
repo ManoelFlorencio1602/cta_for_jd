@@ -1,0 +1,99 @@
+ds_name,att_name,sizeDistinct1,ds_name_2,att_name_2,sizeDistinct2,joinSize,trueContainment,trueQuality
+road-ahead-current-road-closures.csv,COMP_DATE,12,road-ahead-upcoming-projects.csv,COMP_DATE,35,6,0.5,3.0
+eo_pr.csv,NTEE_CD,302,eo_xx.csv,NTEE_CD,397,168,0.556291391,3.0
+eo_pr.csv,NAME,1270,eo4.csv,NAME,3097,1270,1.0,4.0
+eo_pr.csv,ICO,784,eo4.csv,ICO,2050,784,1.0,4.0
+eo_pr.csv,STREET,1266,eo4.csv,STREET,3045,1266,1.0,4.0
+eo_pr.csv,CITY,107,eo4.csv,CITY,322,107,1.0,4.0
+eo_pr.csv,ZIP,1111,eo4.csv,ZIP,1745,1111,1.0,4.0
+eo4.csv,ZIP,1745,eo_pr.csv,ZIP,1111,1111,0.636676218,3.0
+eo_pr.csv,NTEE_CD,302,eo4.csv,NTEE_CD,531,302,1.0,4.0
+eo4.csv,NTEE_CD,531,eo_pr.csv,NTEE_CD,302,302,0.56873823,3.0
+eo_pr.csv,SORT_NAME,276,eo4.csv,SORT_NAME,667,276,1.0,4.0
+cultural-spaces.csv,LOCAL_AREA,23,street-intersections.csv,Geo Local Area,22,21,0.913043478,4.0
+street-intersections.csv,Geo Local Area,22,cultural-spaces.csv,LOCAL_AREA,23,21,0.954545455,4.0
+cultural-spaces.csv,LOCAL_AREA,23,rental-standards-current-issues.csv,Geo Local Area,21,20,0.869565217,4.0
+rental-standards-current-issues.csv,Geo Local Area,21,cultural-spaces.csv,LOCAL_AREA,23,20,0.952380952,4.0
+cultural-spaces.csv,LOCAL_AREA,23,public-art.csv,Neighbourhood,24,21,0.913043478,4.0
+public-art.csv,Neighbourhood,24,cultural-spaces.csv,LOCAL_AREA,23,21,0.875,4.0
+cultural-spaces.csv,LOCAL_AREA,23,public-art.csv,GeoLocalArea,20,19,0.826086957,4.0
+public-art.csv,GeoLocalArea,20,cultural-spaces.csv,LOCAL_AREA,23,19,0.95,4.0
+cultural-spaces.csv,LOCAL_AREA,23,schools.csv,Geo Local Area,22,21,0.913043478,4.0
+schools.csv,Geo Local Area,22,cultural-spaces.csv,LOCAL_AREA,23,21,0.954545455,4.0
+cultural-spaces.csv,LOCAL_AREA,23,community-gardens-and-food-trees.csv,Geo Local Area,22,21,0.913043478,4.0
+community-gardens-and-food-trees.csv,Geo Local Area,22,cultural-spaces.csv,LOCAL_AREA,23,21,0.954545455,4.0
+cultural-spaces.csv,LOCAL_AREA,23,libraries.csv,Geo Local Area,19,19,0.826086957,4.0
+libraries.csv,Geo Local Area,19,cultural-spaces.csv,LOCAL_AREA,23,19,1.0,4.0
+cultural-spaces.csv,LOCAL_AREA,23,community-centres.csv,Geo Local Area,18,18,0.782608696,4.0
+community-centres.csv,Geo Local Area,18,cultural-spaces.csv,LOCAL_AREA,23,18,1.0,4.0
+street-intersections.csv,Geo Local Area,22,rental-standards-current-issues.csv,Geo Local Area,21,21,0.954545455,4.0
+rental-standards-current-issues.csv,Geo Local Area,21,street-intersections.csv,Geo Local Area,22,21,1.0,4.0
+street-intersections.csv,Geo Local Area,22,public-art.csv,Neighbourhood,24,20,0.909090909,4.0
+public-art.csv,Neighbourhood,24,street-intersections.csv,Geo Local Area,22,20,0.833333333,4.0
+street-intersections.csv,Geo Local Area,22,public-art.csv,GeoLocalArea,20,20,0.909090909,4.0
+public-art.csv,GeoLocalArea,20,street-intersections.csv,Geo Local Area,22,20,1.0,4.0
+street-intersections.csv,Geo Local Area,22,schools.csv,Geo Local Area,22,22,1.0,4.0
+schools.csv,Geo Local Area,22,street-intersections.csv,Geo Local Area,22,22,1.0,4.0
+street-intersections.csv,Geo Local Area,22,community-gardens-and-food-trees.csv,Geo Local Area,22,22,1.0,4.0
+community-gardens-and-food-trees.csv,Geo Local Area,22,street-intersections.csv,Geo Local Area,22,22,1.0,4.0
+street-intersections.csv,Geo Local Area,22,libraries.csv,Geo Local Area,19,19,0.863636364,4.0
+libraries.csv,Geo Local Area,19,street-intersections.csv,Geo Local Area,22,19,1.0,4.0
+street-intersections.csv,Geo Local Area,22,community-centres.csv,Geo Local Area,18,18,0.818181818,4.0
+community-centres.csv,Geo Local Area,18,street-intersections.csv,Geo Local Area,22,18,1.0,4.0
+rental-standards-current-issues.csv,Geo Local Area,21,public-art.csv,Neighbourhood,24,19,0.904761905,4.0
+public-art.csv,Neighbourhood,24,rental-standards-current-issues.csv,Geo Local Area,21,19,0.791666667,4.0
+rental-standards-current-issues.csv,Geo Local Area,21,public-art.csv,GeoLocalArea,20,19,0.904761905,4.0
+public-art.csv,GeoLocalArea,20,rental-standards-current-issues.csv,Geo Local Area,21,19,0.95,4.0
+rental-standards-current-issues.csv,Geo Local Area,21,schools.csv,Geo Local Area,22,21,1.0,4.0
+schools.csv,Geo Local Area,22,rental-standards-current-issues.csv,Geo Local Area,21,21,0.954545455,4.0
+rental-standards-current-issues.csv,Geo Local Area,21,community-gardens-and-food-trees.csv,Geo Local Area,22,21,1.0,4.0
+community-gardens-and-food-trees.csv,Geo Local Area,22,rental-standards-current-issues.csv,Geo Local Area,21,21,0.954545455,4.0
+rental-standards-current-issues.csv,Geo Local Area,21,libraries.csv,Geo Local Area,19,18,0.857142857,4.0
+libraries.csv,Geo Local Area,19,rental-standards-current-issues.csv,Geo Local Area,21,18,0.947368421,4.0
+rental-standards-current-issues.csv,Geo Local Area,21,community-centres.csv,Geo Local Area,18,18,0.857142857,4.0
+community-centres.csv,Geo Local Area,18,rental-standards-current-issues.csv,Geo Local Area,21,18,1.0,4.0
+public-art.csv,Neighbourhood,24,schools.csv,Geo Local Area,22,20,0.833333333,4.0
+schools.csv,Geo Local Area,22,public-art.csv,Neighbourhood,24,20,0.909090909,4.0
+public-art.csv,GeoLocalArea,20,schools.csv,Geo Local Area,22,20,1.0,4.0
+schools.csv,Geo Local Area,22,public-art.csv,GeoLocalArea,20,20,0.909090909,4.0
+public-art.csv,Neighbourhood,24,community-gardens-and-food-trees.csv,Geo Local Area,22,20,0.833333333,4.0
+community-gardens-and-food-trees.csv,Geo Local Area,22,public-art.csv,Neighbourhood,24,20,0.909090909,4.0
+public-art.csv,GeoLocalArea,20,community-gardens-and-food-trees.csv,Geo Local Area,22,20,1.0,4.0
+community-gardens-and-food-trees.csv,Geo Local Area,22,public-art.csv,GeoLocalArea,20,20,0.909090909,4.0
+public-art.csv,Neighbourhood,24,libraries.csv,Geo Local Area,19,18,0.75,4.0
+libraries.csv,Geo Local Area,19,public-art.csv,Neighbourhood,24,18,0.947368421,4.0
+public-art.csv,GeoLocalArea,20,libraries.csv,Geo Local Area,19,17,0.85,4.0
+libraries.csv,Geo Local Area,19,public-art.csv,GeoLocalArea,20,17,0.894736842,4.0
+public-art.csv,Neighbourhood,24,community-centres.csv,Geo Local Area,18,17,0.708333333,3.0
+community-centres.csv,Geo Local Area,18,public-art.csv,Neighbourhood,24,17,0.944444444,4.0
+public-art.csv,GeoLocalArea,20,community-centres.csv,Geo Local Area,18,17,0.85,4.0
+community-centres.csv,Geo Local Area,18,public-art.csv,GeoLocalArea,20,17,0.944444444,4.0
+population-census-of-botswana-2011.csv,FREQUENCY,1,statewise-census-data-in-india-1901-2011.csv,FREQUENCY,1,1,1.0,4.0
+statewise-census-data-in-india-1901-2011.csv,FREQUENCY,1,population-census-of-botswana-2011.csv,FREQUENCY,1,1,1.0,4.0
+schools.csv,Geo Local Area,22,community-gardens-and-food-trees.csv,Geo Local Area,22,22,1.0,4.0
+community-gardens-and-food-trees.csv,Geo Local Area,22,schools.csv,Geo Local Area,22,22,1.0,4.0
+schools.csv,Geo Local Area,22,libraries.csv,Geo Local Area,19,19,0.863636364,4.0
+libraries.csv,Geo Local Area,19,schools.csv,Geo Local Area,22,19,1.0,4.0
+schools.csv,Geo Local Area,22,community-centres.csv,Geo Local Area,18,18,0.818181818,4.0
+community-centres.csv,Geo Local Area,18,schools.csv,Geo Local Area,22,18,1.0,4.0
+community-gardens-and-food-trees.csv,Geo Local Area,22,libraries.csv,Geo Local Area,19,19,0.863636364,4.0
+libraries.csv,Geo Local Area,19,community-gardens-and-food-trees.csv,Geo Local Area,22,19,1.0,4.0
+community-gardens-and-food-trees.csv,Geo Local Area,22,community-centres.csv,Geo Local Area,18,18,0.818181818,4.0
+community-centres.csv,Geo Local Area,18,community-gardens-and-food-trees.csv,Geo Local Area,22,18,1.0,4.0
+libraries.csv,Geo Local Area,19,community-centres.csv,Geo Local Area,18,17,0.894736842,4.0
+community-centres.csv,Geo Local Area,18,libraries.csv,Geo Local Area,19,17,0.944444444,4.0
+eo_xx.csv,NAME,1851,eo4.csv,NAME,3097,1851,1.0,4.0
+eo4.csv,NAME,3097,eo_xx.csv,NAME,1851,1851,0.59767517,3.0
+eo_xx.csv,ICO,1269,eo4.csv,ICO,2050,1269,1.0,4.0
+eo4.csv,ICO,2050,eo_xx.csv,ICO,1269,1269,0.61902439,3.0
+eo_xx.csv,STREET,1806,eo4.csv,STREET,3045,1806,1.0,4.0
+eo4.csv,STREET,3045,eo_xx.csv,STREET,1806,1806,0.593103448,3.0
+eo_xx.csv,CITY,215,eo4.csv,CITY,322,215,1.0,4.0
+eo4.csv,CITY,322,eo_xx.csv,CITY,215,215,0.667701863,3.0
+eo_xx.csv,STATE,10,eo4.csv,STATE,11,10,1.0,4.0
+eo4.csv,STATE,11,eo_xx.csv,STATE,10,10,0.909090909,4.0
+eo_xx.csv,ZIP,634,eo4.csv,ZIP,1745,634,1.0,4.0
+eo_xx.csv,NTEE_CD,397,eo4.csv,NTEE_CD,531,397,1.0,4.0
+eo4.csv,NTEE_CD,531,eo_xx.csv,NTEE_CD,397,397,0.747645951,3.0
+eo_xx.csv,SORT_NAME,391,eo4.csv,SORT_NAME,667,391,1.0,4.0
+eo4.csv,SORT_NAME,667,eo_xx.csv,SORT_NAME,391,391,0.586206897,3.0

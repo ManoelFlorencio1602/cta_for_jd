@@ -1,0 +1,30 @@
+LEFT_TABLE,LEFT_COLUMN,RIGHT_TABLE,RIGHT_COLUMN,KEY
+eo_pr.csv,NAME,libraries.csv,NAME,eo_pr.csv#NAME#libraries.csv#NAME
+eo_pr.csv,STREET,public-art.csv,SiteAddress,eo_pr.csv#STREET#public-art.csv#SiteAddress
+eo_pr.csv,CITY,public-art.csv,Neighbourhood,eo_pr.csv#CITY#public-art.csv#Neighbourhood
+eo_pr.csv,CITY,public-art.csv,SiteName,eo_pr.csv#CITY#public-art.csv#SiteName
+eo_pr.csv,CITY,public-art.csv,GeoLocalArea,eo_pr.csv#CITY#public-art.csv#GeoLocalArea
+eo_pr.csv,CITY,schools.csv,Geo Local Area,eo_pr.csv#CITY#schools.csv#Geo Local Area
+eo_pr.csv,CITY,libraries.csv,Geo Local Area,eo_pr.csv#CITY#libraries.csv#Geo Local Area
+cultural-spaces.csv,CITY,eo_pr.csv,LOCAL_AREA,cultural-spaces.csv#CITY#eo_pr.csv#LOCAL_AREA
+cultural-spaces.csv,ADDRESS,public-art.csv,SiteAddress,cultural-spaces.csv#ADDRESS#public-art.csv#SiteAddress
+cultural-spaces.csv,GeoLocalArea,public-art.csv,LOCAL_AREA,cultural-spaces.csv#GeoLocalArea#public-art.csv#LOCAL_AREA
+cultural-spaces.csv,OWNERSHIP,public-art.csv,Ownership,cultural-spaces.csv#OWNERSHIP#public-art.csv#Ownership
+cultural-spaces.csv,Geom,public-art.csv,Geom,cultural-spaces.csv#Geom#public-art.csv#Geom
+cultural-spaces.csv,Geom,schools.csv,Geom,cultural-spaces.csv#Geom#schools.csv#Geom
+cultural-spaces.csv,Geom,libraries.csv,Geom,cultural-spaces.csv#Geom#libraries.csv#Geom
+cultural-spaces.csv,LOCAL_AREA,public-art.csv,SiteName,cultural-spaces.csv#LOCAL_AREA#public-art.csv#SiteName
+public-art.csv,Geo Local Area,schools.csv,Neighbourhood,public-art.csv#Geo Local Area#schools.csv#Neighbourhood
+libraries.csv,Geo Local Area,public-art.csv,Neighbourhood,libraries.csv#Geo Local Area#public-art.csv#Neighbourhood
+cultural-spaces.csv,LOCAL_AREA,public-art.csv,Neighbourhood,cultural-spaces.csv#LOCAL_AREA#public-art.csv#Neighbourhood
+public-art.csv,Geom,schools.csv,Geom,public-art.csv#Geom#schools.csv#Geom
+libraries.csv,Geom,public-art.csv,Geom,libraries.csv#Geom#public-art.csv#Geom
+public-art.csv,Geo Local Area,schools.csv,GeoLocalArea,public-art.csv#Geo Local Area#schools.csv#GeoLocalArea
+libraries.csv,Geo Local Area,public-art.csv,GeoLocalArea,libraries.csv#Geo Local Area#public-art.csv#GeoLocalArea
+libraries.csv,ADDRESS,public-art.csv,SiteAddress,libraries.csv#ADDRESS#public-art.csv#SiteAddress
+libraries.csv,NAME,public-art.csv,SiteName,libraries.csv#NAME#public-art.csv#SiteName
+libraries.csv,Geom,schools.csv,Geom,libraries.csv#Geom#schools.csv#Geom
+libraries.csv,Geo Local Area,schools.csv,Geo Local Area,libraries.csv#Geo Local Area#schools.csv#Geo Local Area
+cultural-spaces.csv,Geo Local Area,libraries.csv,LOCAL_AREA,cultural-spaces.csv#Geo Local Area#libraries.csv#LOCAL_AREA
+public-art.csv,ADDRESS,schools.csv,SiteAddress,public-art.csv#ADDRESS#schools.csv#SiteAddress
+cultural-spaces.csv,Geo Local Area,schools.csv,LOCAL_AREA,cultural-spaces.csv#Geo Local Area#schools.csv#LOCAL_AREA

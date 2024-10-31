@@ -1,0 +1,10 @@
+LEFT_TABLE,LEFT_COLUMN,RIGHT_TABLE,RIGHT_COLUMN,KEY
+cultural-spaces.csv,LOCAL_AREA,public-art.csv,Neighbourhood,cultural-spaces.csv#LOCAL_AREA#public-art.csv#Neighbourhood
+cultural-spaces.csv,GeoLocalArea,public-art.csv,LOCAL_AREA,cultural-spaces.csv#GeoLocalArea#public-art.csv#LOCAL_AREA
+cultural-spaces.csv,Geo Local Area,schools.csv,LOCAL_AREA,cultural-spaces.csv#Geo Local Area#schools.csv#LOCAL_AREA
+cultural-spaces.csv,Geo Local Area,libraries.csv,LOCAL_AREA,cultural-spaces.csv#Geo Local Area#libraries.csv#LOCAL_AREA
+public-art.csv,Geo Local Area,schools.csv,Neighbourhood,public-art.csv#Geo Local Area#schools.csv#Neighbourhood
+public-art.csv,Geo Local Area,schools.csv,GeoLocalArea,public-art.csv#Geo Local Area#schools.csv#GeoLocalArea
+libraries.csv,Geo Local Area,public-art.csv,Neighbourhood,libraries.csv#Geo Local Area#public-art.csv#Neighbourhood
+libraries.csv,Geo Local Area,public-art.csv,GeoLocalArea,libraries.csv#Geo Local Area#public-art.csv#GeoLocalArea
+libraries.csv,Geo Local Area,schools.csv,Geo Local Area,libraries.csv#Geo Local Area#schools.csv#Geo Local Area
