@@ -1,0 +1,54 @@
+LEFT_TABLE,LEFT_COLUMN,RIGHT_TABLE,RIGHT_COLUMN,KEY
+road-ahead-current-road-closures.csv,COMP_DATE,road-ahead-upcoming-projects.csv,COMP_DATE,road-ahead-current-road-closures.csv#COMP_DATE#road-ahead-upcoming-projects.csv#COMP_DATE
+eo_pr.csv,NTEE_CD,eo_xx.csv,NTEE_CD,eo_pr.csv#NTEE_CD#eo_xx.csv#NTEE_CD
+eo4.csv,NAME,eo_pr.csv,NAME,eo4.csv#NAME#eo_pr.csv#NAME
+eo4.csv,ICO,eo_pr.csv,ICO,eo4.csv#ICO#eo_pr.csv#ICO
+eo4.csv,STREET,eo_pr.csv,STREET,eo4.csv#STREET#eo_pr.csv#STREET
+eo4.csv,CITY,eo_pr.csv,CITY,eo4.csv#CITY#eo_pr.csv#CITY
+eo4.csv,ZIP,eo_pr.csv,ZIP,eo4.csv#ZIP#eo_pr.csv#ZIP
+eo4.csv,NTEE_CD,eo_pr.csv,NTEE_CD,eo4.csv#NTEE_CD#eo_pr.csv#NTEE_CD
+eo4.csv,SORT_NAME,eo_pr.csv,SORT_NAME,eo4.csv#SORT_NAME#eo_pr.csv#SORT_NAME
+cultural-spaces.csv,LOCAL_AREA,street-intersections.csv,Geo Local Area,cultural-spaces.csv#LOCAL_AREA#street-intersections.csv#Geo Local Area
+cultural-spaces.csv,LOCAL_AREA,rental-standards-current-issues.csv,Geo Local Area,cultural-spaces.csv#LOCAL_AREA#rental-standards-current-issues.csv#Geo Local Area
+cultural-spaces.csv,LOCAL_AREA,public-art.csv,Neighbourhood,cultural-spaces.csv#LOCAL_AREA#public-art.csv#Neighbourhood
+cultural-spaces.csv,LOCAL_AREA,public-art.csv,GeoLocalArea,cultural-spaces.csv#LOCAL_AREA#public-art.csv#GeoLocalArea
+cultural-spaces.csv,LOCAL_AREA,schools.csv,Geo Local Area,cultural-spaces.csv#LOCAL_AREA#schools.csv#Geo Local Area
+community-gardens-and-food-trees.csv,Geo Local Area,cultural-spaces.csv,LOCAL_AREA,community-gardens-and-food-trees.csv#Geo Local Area#cultural-spaces.csv#LOCAL_AREA
+cultural-spaces.csv,LOCAL_AREA,libraries.csv,Geo Local Area,cultural-spaces.csv#LOCAL_AREA#libraries.csv#Geo Local Area
+community-centres.csv,Geo Local Area,cultural-spaces.csv,LOCAL_AREA,community-centres.csv#Geo Local Area#cultural-spaces.csv#LOCAL_AREA
+rental-standards-current-issues.csv,Geo Local Area,street-intersections.csv,Geo Local Area,rental-standards-current-issues.csv#Geo Local Area#street-intersections.csv#Geo Local Area
+public-art.csv,Neighbourhood,street-intersections.csv,Geo Local Area,public-art.csv#Neighbourhood#street-intersections.csv#Geo Local Area
+public-art.csv,GeoLocalArea,street-intersections.csv,Geo Local Area,public-art.csv#GeoLocalArea#street-intersections.csv#Geo Local Area
+schools.csv,Geo Local Area,street-intersections.csv,Geo Local Area,schools.csv#Geo Local Area#street-intersections.csv#Geo Local Area
+community-gardens-and-food-trees.csv,Geo Local Area,street-intersections.csv,Geo Local Area,community-gardens-and-food-trees.csv#Geo Local Area#street-intersections.csv#Geo Local Area
+libraries.csv,Geo Local Area,street-intersections.csv,Geo Local Area,libraries.csv#Geo Local Area#street-intersections.csv#Geo Local Area
+community-centres.csv,Geo Local Area,street-intersections.csv,Geo Local Area,community-centres.csv#Geo Local Area#street-intersections.csv#Geo Local Area
+public-art.csv,Neighbourhood,rental-standards-current-issues.csv,Geo Local Area,public-art.csv#Neighbourhood#rental-standards-current-issues.csv#Geo Local Area
+public-art.csv,GeoLocalArea,rental-standards-current-issues.csv,Geo Local Area,public-art.csv#GeoLocalArea#rental-standards-current-issues.csv#Geo Local Area
+rental-standards-current-issues.csv,Geo Local Area,schools.csv,Geo Local Area,rental-standards-current-issues.csv#Geo Local Area#schools.csv#Geo Local Area
+community-gardens-and-food-trees.csv,Geo Local Area,rental-standards-current-issues.csv,Geo Local Area,community-gardens-and-food-trees.csv#Geo Local Area#rental-standards-current-issues.csv#Geo Local Area
+libraries.csv,Geo Local Area,rental-standards-current-issues.csv,Geo Local Area,libraries.csv#Geo Local Area#rental-standards-current-issues.csv#Geo Local Area
+community-centres.csv,Geo Local Area,rental-standards-current-issues.csv,Geo Local Area,community-centres.csv#Geo Local Area#rental-standards-current-issues.csv#Geo Local Area
+public-art.csv,Neighbourhood,schools.csv,Geo Local Area,public-art.csv#Neighbourhood#schools.csv#Geo Local Area
+public-art.csv,GeoLocalArea,schools.csv,Geo Local Area,public-art.csv#GeoLocalArea#schools.csv#Geo Local Area
+community-gardens-and-food-trees.csv,Geo Local Area,public-art.csv,Neighbourhood,community-gardens-and-food-trees.csv#Geo Local Area#public-art.csv#Neighbourhood
+community-gardens-and-food-trees.csv,Geo Local Area,public-art.csv,GeoLocalArea,community-gardens-and-food-trees.csv#Geo Local Area#public-art.csv#GeoLocalArea
+libraries.csv,Geo Local Area,public-art.csv,Neighbourhood,libraries.csv#Geo Local Area#public-art.csv#Neighbourhood
+libraries.csv,Geo Local Area,public-art.csv,GeoLocalArea,libraries.csv#Geo Local Area#public-art.csv#GeoLocalArea
+community-centres.csv,Geo Local Area,public-art.csv,Neighbourhood,community-centres.csv#Geo Local Area#public-art.csv#Neighbourhood
+community-centres.csv,Geo Local Area,public-art.csv,GeoLocalArea,community-centres.csv#Geo Local Area#public-art.csv#GeoLocalArea
+population-census-of-botswana-2011.csv,FREQUENCY,statewise-census-data-in-india-1901-2011.csv,FREQUENCY,population-census-of-botswana-2011.csv#FREQUENCY#statewise-census-data-in-india-1901-2011.csv#FREQUENCY
+community-gardens-and-food-trees.csv,Geo Local Area,schools.csv,Geo Local Area,community-gardens-and-food-trees.csv#Geo Local Area#schools.csv#Geo Local Area
+libraries.csv,Geo Local Area,schools.csv,Geo Local Area,libraries.csv#Geo Local Area#schools.csv#Geo Local Area
+community-centres.csv,Geo Local Area,schools.csv,Geo Local Area,community-centres.csv#Geo Local Area#schools.csv#Geo Local Area
+community-gardens-and-food-trees.csv,Geo Local Area,libraries.csv,Geo Local Area,community-gardens-and-food-trees.csv#Geo Local Area#libraries.csv#Geo Local Area
+community-centres.csv,Geo Local Area,community-gardens-and-food-trees.csv,Geo Local Area,community-centres.csv#Geo Local Area#community-gardens-and-food-trees.csv#Geo Local Area
+community-centres.csv,Geo Local Area,libraries.csv,Geo Local Area,community-centres.csv#Geo Local Area#libraries.csv#Geo Local Area
+eo4.csv,NAME,eo_xx.csv,NAME,eo4.csv#NAME#eo_xx.csv#NAME
+eo4.csv,ICO,eo_xx.csv,ICO,eo4.csv#ICO#eo_xx.csv#ICO
+eo4.csv,STREET,eo_xx.csv,STREET,eo4.csv#STREET#eo_xx.csv#STREET
+eo4.csv,CITY,eo_xx.csv,CITY,eo4.csv#CITY#eo_xx.csv#CITY
+eo4.csv,STATE,eo_xx.csv,STATE,eo4.csv#STATE#eo_xx.csv#STATE
+eo4.csv,ZIP,eo_xx.csv,ZIP,eo4.csv#ZIP#eo_xx.csv#ZIP
+eo4.csv,NTEE_CD,eo_xx.csv,NTEE_CD,eo4.csv#NTEE_CD#eo_xx.csv#NTEE_CD
+eo4.csv,SORT_NAME,eo_xx.csv,SORT_NAME,eo4.csv#SORT_NAME#eo_xx.csv#SORT_NAME

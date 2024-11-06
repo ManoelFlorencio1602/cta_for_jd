@@ -1,0 +1,113 @@
+LEFT_TABLE,LEFT_COLUMN,RIGHT_TABLE,RIGHT_COLUMN,KEY
+road-ahead-current-road-closures.csv,COMP_DATE,statewise-census-data-in-india-1901-2011.csv,DATE,road-ahead-current-road-closures.csv#COMP_DATE#statewise-census-data-in-india-1901-2011.csv#DATE
+road-ahead-upcoming-projects.csv,COMP_DATE,statewise-census-data-in-india-1901-2011.csv,DATE,road-ahead-upcoming-projects.csv#COMP_DATE#statewise-census-data-in-india-1901-2011.csv#DATE
+road-ahead-projects-under-construction.csv,COMP_DATE,statewise-census-data-in-india-1901-2011.csv,DATE,road-ahead-projects-under-construction.csv#COMP_DATE#statewise-census-data-in-india-1901-2011.csv#DATE
+road-ahead-current-road-closures.csv,LOCATION,statewise-census-data-in-india-1901-2011.csv,LOCATION_ID,road-ahead-current-road-closures.csv#LOCATION#statewise-census-data-in-india-1901-2011.csv#LOCATION_ID
+road-ahead-upcoming-projects.csv,LOCATION,statewise-census-data-in-india-1901-2011.csv,LOCATION_ID,road-ahead-upcoming-projects.csv#LOCATION#statewise-census-data-in-india-1901-2011.csv#LOCATION_ID
+road-ahead-projects-under-construction.csv,LOCATION,statewise-census-data-in-india-1901-2011.csv,LOCATION_ID,road-ahead-projects-under-construction.csv#LOCATION#statewise-census-data-in-india-1901-2011.csv#LOCATION_ID
+population-census-of-botswana-2011.csv,REGION_REGIONID,statewise-census-data-in-india-1901-2011.csv,LOCATION_REGIONID,population-census-of-botswana-2011.csv#REGION_REGIONID#statewise-census-data-in-india-1901-2011.csv#LOCATION_REGIONID
+road-ahead-current-road-closures.csv,COMP_DATE,road-ahead-upcoming-projects.csv,COMP_DATE,road-ahead-current-road-closures.csv#COMP_DATE#road-ahead-upcoming-projects.csv#COMP_DATE
+road-ahead-current-road-closures.csv,COMP_DATE,road-ahead-projects-under-construction.csv,COMP_DATE,road-ahead-current-road-closures.csv#COMP_DATE#road-ahead-projects-under-construction.csv#COMP_DATE
+road-ahead-current-road-closures.csv,URL_LINK,road-ahead-upcoming-projects.csv,URL_LINK,road-ahead-current-road-closures.csv#URL_LINK#road-ahead-upcoming-projects.csv#URL_LINK
+property-tie-lines.csv,Geom,road-ahead-current-road-closures.csv,Geom,property-tie-lines.csv#Geom#road-ahead-current-road-closures.csv#Geom
+property-tie-lines.csv,Geom,road-ahead-upcoming-projects.csv,Geom,property-tie-lines.csv#Geom#road-ahead-upcoming-projects.csv#Geom
+property-tie-lines.csv,Geom,road-ahead-projects-under-construction.csv,Geom,property-tie-lines.csv#Geom#road-ahead-projects-under-construction.csv#Geom
+public-art-artists.csv,ArtistURL,public-art.csv,URL,public-art-artists.csv#ArtistURL#public-art.csv#URL
+community-centres.csv,Geo Local Area,public-art.csv,Neighbourhood,community-centres.csv#Geo Local Area#public-art.csv#Neighbourhood
+community-gardens-and-food-trees.csv,Geo Local Area,public-art.csv,GeoLocalArea,community-gardens-and-food-trees.csv#Geo Local Area#public-art.csv#GeoLocalArea
+community-centres.csv,Geo Local Area,public-art.csv,GeoLocalArea,community-centres.csv#Geo Local Area#public-art.csv#GeoLocalArea
+public-art.csv,GeoLocalArea,street-intersections.csv,Geo Local Area,public-art.csv#GeoLocalArea#street-intersections.csv#Geo Local Area
+community-centres.csv,Geo Local Area,schools.csv,Geo Local Area,community-centres.csv#Geo Local Area#schools.csv#Geo Local Area
+community-gardens-and-food-trees.csv,Geo Local Area,schools.csv,Geo Local Area,community-gardens-and-food-trees.csv#Geo Local Area#schools.csv#Geo Local Area
+schools.csv,Geo Local Area,street-intersections.csv,Geo Local Area,schools.csv#Geo Local Area#street-intersections.csv#Geo Local Area
+community-gardens-and-food-trees.csv,STREET_NUMBER,rental-standards-current-issues.csv,StreetNumber,community-gardens-and-food-trees.csv#STREET_NUMBER#rental-standards-current-issues.csv#StreetNumber
+community-gardens-and-food-trees.csv,Geo Local Area,rental-standards-current-issues.csv,Geo Local Area,community-gardens-and-food-trees.csv#Geo Local Area#rental-standards-current-issues.csv#Geo Local Area
+libraries.csv,Geo Local Area,rental-standards-current-issues.csv,Geo Local Area,libraries.csv#Geo Local Area#rental-standards-current-issues.csv#Geo Local Area
+cultural-spaces.csv,LOCAL_AREA,rental-standards-current-issues.csv,Geo Local Area,cultural-spaces.csv#LOCAL_AREA#rental-standards-current-issues.csv#Geo Local Area
+community-centres.csv,Geo Local Area,rental-standards-current-issues.csv,Geo Local Area,community-centres.csv#Geo Local Area#rental-standards-current-issues.csv#Geo Local Area
+rental-standards-current-issues.csv,Geo Local Area,street-intersections.csv,Geo Local Area,rental-standards-current-issues.csv#Geo Local Area#street-intersections.csv#Geo Local Area
+eo_xx.csv,CITY,road-ahead-current-road-closures.csv,CITY,eo_xx.csv#CITY#road-ahead-current-road-closures.csv#CITY
+eo_xx.csv,STATE,statewise-census-data-in-india-1901-2011.csv,STATE,eo_xx.csv#STATE#statewise-census-data-in-india-1901-2011.csv#STATE
+eo_pr.csv,ZIP,eo_xx.csv,ZIP,eo_pr.csv#ZIP#eo_xx.csv#ZIP
+eo_pr.csv,SUBSECTION,eo_xx.csv,SUBSECTION,eo_pr.csv#SUBSECTION#eo_xx.csv#SUBSECTION
+eo4.csv,RULING,eo_xx.csv,RULING,eo4.csv#RULING#eo_xx.csv#RULING
+eo_xx.csv,TAX_PERIOD,road-ahead-current-road-closures.csv,DATE,eo_xx.csv#TAX_PERIOD#road-ahead-current-road-closures.csv#DATE
+eo_xx.csv,TAX_PERIOD,road-ahead-upcoming-projects.csv,COMP_DATE,eo_xx.csv#TAX_PERIOD#road-ahead-upcoming-projects.csv#COMP_DATE
+eo_xx.csv,TAX_PERIOD,road-ahead-projects-under-construction.csv,COMP_DATE,eo_xx.csv#TAX_PERIOD#road-ahead-projects-under-construction.csv#COMP_DATE
+eo4.csv,FILING_REQ_CD,eo_xx.csv,FILING_REQ_CD,eo4.csv#FILING_REQ_CD#eo_xx.csv#FILING_REQ_CD
+community-gardens-and-food-trees.csv,WEBSITE,cultural-spaces.csv,WEBSITE,community-gardens-and-food-trees.csv#WEBSITE#cultural-spaces.csv#WEBSITE
+community-centres.csv,Geo Local Area,community-gardens-and-food-trees.csv,Geo Local Area,community-centres.csv#Geo Local Area#community-gardens-and-food-trees.csv#Geo Local Area
+community-gardens-and-food-trees.csv,Geo Local Area,cultural-spaces.csv,Geo Local Area,community-gardens-and-food-trees.csv#Geo Local Area#cultural-spaces.csv#Geo Local Area
+community-gardens-and-food-trees.csv,Geo Local Area,street-intersections.csv,Geo Local Area,community-gardens-and-food-trees.csv#Geo Local Area#street-intersections.csv#Geo Local Area
+community-gardens-and-food-trees.csv,Geom,road-ahead-current-road-closures.csv,Geom,community-gardens-and-food-trees.csv#Geom#road-ahead-current-road-closures.csv#Geom
+community-gardens-and-food-trees.csv,Geom,road-ahead-upcoming-projects.csv,Geom,community-gardens-and-food-trees.csv#Geom#road-ahead-upcoming-projects.csv#Geom
+community-gardens-and-food-trees.csv,Geom,road-ahead-projects-under-construction.csv,Geom,community-gardens-and-food-trees.csv#Geom#road-ahead-projects-under-construction.csv#Geom
+community-centres.csv,Geom,community-gardens-and-food-trees.csv,Geom,community-centres.csv#Geom#community-gardens-and-food-trees.csv#Geom
+community-gardens-and-food-trees.csv,Geom,street-intersections.csv,Geom,community-gardens-and-food-trees.csv#Geom#street-intersections.csv#Geom
+road-ahead-projects-under-construction.csv,PROJECT,road-ahead-upcoming-projects.csv,PROJECT,road-ahead-projects-under-construction.csv#PROJECT#road-ahead-upcoming-projects.csv#PROJECT
+road-ahead-current-road-closures.csv,LOCATION,road-ahead-upcoming-projects.csv,LOCATION,road-ahead-current-road-closures.csv#LOCATION#road-ahead-upcoming-projects.csv#LOCATION
+road-ahead-projects-under-construction.csv,LOCATION,road-ahead-upcoming-projects.csv,LOCATION,road-ahead-projects-under-construction.csv#LOCATION#road-ahead-upcoming-projects.csv#LOCATION
+road-ahead-projects-under-construction.csv,COMP_DATE,road-ahead-upcoming-projects.csv,COMP_DATE,road-ahead-projects-under-construction.csv#COMP_DATE#road-ahead-upcoming-projects.csv#COMP_DATE
+road-ahead-projects-under-construction.csv,Geom,road-ahead-upcoming-projects.csv,Geom,road-ahead-projects-under-construction.csv#Geom#road-ahead-upcoming-projects.csv#Geom
+road-ahead-current-road-closures.csv,Geom,road-ahead-upcoming-projects.csv,Geom,road-ahead-current-road-closures.csv#Geom#road-ahead-upcoming-projects.csv#Geom
+gvrd-sewer-trunk-mains.csv,Geom,road-ahead-upcoming-projects.csv,Geom,gvrd-sewer-trunk-mains.csv#Geom#road-ahead-upcoming-projects.csv#Geom
+libraries.csv,Geom,road-ahead-upcoming-projects.csv,Geom,libraries.csv#Geom#road-ahead-upcoming-projects.csv#Geom
+community-centres.csv,Geom,road-ahead-upcoming-projects.csv,Geom,community-centres.csv#Geom#road-ahead-upcoming-projects.csv#Geom
+road-ahead-upcoming-projects.csv,Geom,street-intersections.csv,Geom,road-ahead-upcoming-projects.csv#Geom#street-intersections.csv#Geom
+community-centres.csv,URLLINK,libraries.csv,URLLINK,community-centres.csv#URLLINK#libraries.csv#URLLINK
+community-centres.csv,Geo Local Area,libraries.csv,Geo Local Area,community-centres.csv#Geo Local Area#libraries.csv#Geo Local Area
+community-gardens-and-food-trees.csv,Geo Local Area,libraries.csv,Geo Local Area,community-gardens-and-food-trees.csv#Geo Local Area#libraries.csv#Geo Local Area
+libraries.csv,Geo Local Area,street-intersections.csv,Geo Local Area,libraries.csv#Geo Local Area#street-intersections.csv#Geo Local Area
+community-centres.csv,Geo Local Area,cultural-spaces.csv,LOCAL_AREA,community-centres.csv#Geo Local Area#cultural-spaces.csv#LOCAL_AREA
+cultural-spaces.csv,LOCAL_AREA,public-art.csv,Geo Local Area,cultural-spaces.csv#LOCAL_AREA#public-art.csv#Geo Local Area
+community-gardens-and-food-trees.csv,Geo Local Area,cultural-spaces.csv,LOCAL_AREA,community-gardens-and-food-trees.csv#Geo Local Area#cultural-spaces.csv#LOCAL_AREA
+cultural-spaces.csv,LOCAL_AREA,libraries.csv,Geo Local Area,cultural-spaces.csv#LOCAL_AREA#libraries.csv#Geo Local Area
+cultural-spaces.csv,LOCAL_AREA,street-intersections.csv,Geo Local Area,cultural-spaces.csv#LOCAL_AREA#street-intersections.csv#Geo Local Area
+community-gardens-and-food-trees.csv,WEBSITE,public-art-artists.csv,Website,community-gardens-and-food-trees.csv#WEBSITE#public-art-artists.csv#Website
+eo4.csv,EIN,population-census-of-botswana-2011.csv,REGION_ID,eo4.csv#EIN#population-census-of-botswana-2011.csv#REGION_ID
+eo4.csv,EIN,population-census-of-botswana-2011.csv,REGION_NAME,eo4.csv#EIN#population-census-of-botswana-2011.csv#REGION_NAME
+eo4.csv,EIN,population-census-of-botswana-2011.csv,REGION_REGIONID,eo4.csv#EIN#population-census-of-botswana-2011.csv#REGION_REGIONID
+eo4.csv,STREET,road-ahead-upcoming-projects.csv,STREET,eo4.csv#STREET#road-ahead-upcoming-projects.csv#STREET
+eo4.csv,STREET,road-ahead-current-road-closures.csv,STREET,eo4.csv#STREET#road-ahead-current-road-closures.csv#STREET
+eo4.csv,STREET,road-ahead-projects-under-construction.csv,STREET,eo4.csv#STREET#road-ahead-projects-under-construction.csv#STREET
+eo4.csv,CITY,population-census-of-botswana-2011.csv,REGION_NAME,eo4.csv#CITY#population-census-of-botswana-2011.csv#REGION_NAME
+eo4.csv,STATE,population-census-of-botswana-2011.csv,REGION_NAME,eo4.csv#STATE#population-census-of-botswana-2011.csv#REGION_NAME
+eo4.csv,ZIP,eo_xx.csv,ZIP,eo4.csv#ZIP#eo_xx.csv#ZIP
+eo4.csv,ZIP,eo_pr.csv,ZIP,eo4.csv#ZIP#eo_pr.csv#ZIP
+eo4.csv,SUBSECTION,eo_pr.csv,SUBSECTION,eo4.csv#SUBSECTION#eo_pr.csv#SUBSECTION
+eo4.csv,AFFILIATION,eo_pr.csv,AFFILIATION,eo4.csv#AFFILIATION#eo_pr.csv#AFFILIATION
+eo4.csv,CLASSIFICATION,eo_xx.csv,CLASSIFICATION,eo4.csv#CLASSIFICATION#eo_xx.csv#CLASSIFICATION
+eo4.csv,CLASSIFICATION,eo_pr.csv,CLASSIFICATION,eo4.csv#CLASSIFICATION#eo_pr.csv#CLASSIFICATION
+eo4.csv,FOUNDATION,eo_pr.csv,FOUNDATION,eo4.csv#FOUNDATION#eo_pr.csv#FOUNDATION
+eo4.csv,ACTIVITY,eo_xx.csv,ACTIVITY,eo4.csv#ACTIVITY#eo_xx.csv#ACTIVITY
+currency_exchange.csv,Country,population-by-governorate-citizenship-and-gender.csv,Governorate,currency_exchange.csv#Country#population-by-governorate-citizenship-and-gender.csv#Governorate
+currency_exchange.csv,Country,population-census-of-botswana-2011.csv,REGION_NAME,currency_exchange.csv#Country#population-census-of-botswana-2011.csv#REGION_NAME
+eo_pr.csv,CITY,road-ahead-current-road-closures.csv,LOCATION,eo_pr.csv#CITY#road-ahead-current-road-closures.csv#LOCATION
+eo_pr.csv,CITY,road-ahead-upcoming-projects.csv,LOCATION,eo_pr.csv#CITY#road-ahead-upcoming-projects.csv#LOCATION
+eo_pr.csv,CITY,road-ahead-projects-under-construction.csv,LOCATION,eo_pr.csv#CITY#road-ahead-projects-under-construction.csv#LOCATION
+eo_pr.csv,GROUP,population-census-of-botswana-2011.csv,REGION_ID,eo_pr.csv#GROUP#population-census-of-botswana-2011.csv#REGION_ID
+eo_pr.csv,CLASSIFICATION,eo_xx.csv,CLASSIFICATION,eo_pr.csv#CLASSIFICATION#eo_xx.csv#CLASSIFICATION
+eo_pr.csv,RULING,eo_xx.csv,RULING,eo_pr.csv#RULING#eo_xx.csv#RULING
+eo_pr.csv,INCOME_CD,eo_xx.csv,INCOME_CD,eo_pr.csv#INCOME_CD#eo_xx.csv#INCOME_CD
+road-ahead-current-road-closures.csv,Geom,road-ahead-projects-under-construction.csv,Geom,road-ahead-current-road-closures.csv#Geom#road-ahead-projects-under-construction.csv#Geom
+road-ahead-current-road-closures.csv,PROJECT,road-ahead-projects-under-construction.csv,PROJECT,road-ahead-current-road-closures.csv#PROJECT#road-ahead-projects-under-construction.csv#PROJECT
+road-ahead-projects-under-construction.csv,STREET,road-ahead-upcoming-projects.csv,PROJECT,road-ahead-projects-under-construction.csv#STREET#road-ahead-upcoming-projects.csv#PROJECT
+road-ahead-projects-under-construction.csv,STREET,road-ahead-upcoming-projects.csv,LOCATION,road-ahead-projects-under-construction.csv#STREET#road-ahead-upcoming-projects.csv#LOCATION
+road-ahead-projects-under-construction.csv,STREET,road-ahead-upcoming-projects.csv,COMP_DATE,road-ahead-projects-under-construction.csv#STREET#road-ahead-upcoming-projects.csv#COMP_DATE
+road-ahead-projects-under-construction.csv,STREET,road-ahead-upcoming-projects.csv,URL_LINK,road-ahead-projects-under-construction.csv#STREET#road-ahead-upcoming-projects.csv#URL_LINK
+road-ahead-projects-under-construction.csv,STREET,road-ahead-upcoming-projects.csv,Geom,road-ahead-projects-under-construction.csv#STREET#road-ahead-upcoming-projects.csv#Geom
+population-by-governorate-citizenship-and-gender.csv,Year,population-census-of-botswana-2011.csv,DATE,population-by-governorate-citizenship-and-gender.csv#Year#population-census-of-botswana-2011.csv#DATE
+population-by-governorate-citizenship-and-gender.csv,Gender,population-census-of-botswana-2011.csv,SEX_NAME,population-by-governorate-citizenship-and-gender.csv#Gender#population-census-of-botswana-2011.csv#SEX_NAME
+population-by-governorate-citizenship-and-gender.csv,Population,statewise-census-data-in-india-1901-2011.csv,DATE,population-by-governorate-citizenship-and-gender.csv#Population#statewise-census-data-in-india-1901-2011.csv#DATE
+community-centres.csv,URLLINK,libraries.csv,URL_LINK,community-centres.csv#URLLINK#libraries.csv#URL_LINK
+community-centres.csv,Geom,road-ahead-current-road-closures.csv,Geom,community-centres.csv#Geom#road-ahead-current-road-closures.csv#Geom
+community-centres.csv,Geom,road-ahead-projects-under-construction.csv,Geom,community-centres.csv#Geom#road-ahead-projects-under-construction.csv#Geom
+road-ahead-upcoming-projects.csv,LOCATION,street-intersections.csv,XSTREET,road-ahead-upcoming-projects.csv#LOCATION#street-intersections.csv#XSTREET
+road-ahead-projects-under-construction.csv,LOCATION,street-intersections.csv,XSTREET,road-ahead-projects-under-construction.csv#LOCATION#street-intersections.csv#XSTREET
+road-ahead-current-road-closures.csv,LOCATION,street-intersections.csv,XSTREET,road-ahead-current-road-closures.csv#LOCATION#street-intersections.csv#XSTREET
+community-centres.csv,Geo Local Area,street-intersections.csv,Geo Local Area,community-centres.csv#Geo Local Area#street-intersections.csv#Geo Local Area
+public-art.csv,Geo Local Area,street-intersections.csv,Geo Local Area,public-art.csv#Geo Local Area#street-intersections.csv#Geo Local Area
+road-ahead-current-road-closures.csv,Geo Local Area,street-intersections.csv,Geo Local Area,road-ahead-current-road-closures.csv#Geo Local Area#street-intersections.csv#Geo Local Area
+road-ahead-upcoming-projects.csv,Geo Local Area,street-intersections.csv,Geo Local Area,road-ahead-upcoming-projects.csv#Geo Local Area#street-intersections.csv#Geo Local Area
+road-ahead-projects-under-construction.csv,Geo Local Area,street-intersections.csv,Geo Local Area,road-ahead-projects-under-construction.csv#Geo Local Area#street-intersections.csv#Geo Local Area
+population-by-governorate-citizenship-and-gender.csv,Governorate,population-census-of-botswana-2011.csv,REGION_REGIONID,population-by-governorate-citizenship-and-gender.csv#Governorate#population-census-of-botswana-2011.csv#REGION_REGIONID
