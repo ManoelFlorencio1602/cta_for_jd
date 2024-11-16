@@ -1,0 +1,10 @@
+LEFT_TABLE,LEFT_COLUMN,RIGHT_TABLE,RIGHT_COLUMN,KEY
+cultural-spaces.csv,YEAR,population-by-governorate-citizenship-and-gender.csv,Year,cultural-spaces.csv#YEAR#population-by-governorate-citizenship-and-gender.csv#Year
+cultural-spaces.csv,CULTURAL_SPACE_NAME,eo_xx.csv,NAME,cultural-spaces.csv#CULTURAL_SPACE_NAME#eo_xx.csv#NAME
+cultural-spaces.csv,WEBSITE,public-art.csv,URL,cultural-spaces.csv#WEBSITE#public-art.csv#URL
+cultural-spaces.csv,TYPE,public-art.csv,Type,cultural-spaces.csv#TYPE#public-art.csv#Type
+cultural-spaces.csv,ADDRESS,public-art.csv,SiteAddress,cultural-spaces.csv#ADDRESS#public-art.csv#SiteAddress
+cultural-spaces.csv,LOCAL_AREA,public-art.csv,Neighbourhood,cultural-spaces.csv#LOCAL_AREA#public-art.csv#Neighbourhood
+cultural-spaces.csv,OWNERSHIP,public-art.csv,Ownership,cultural-spaces.csv#OWNERSHIP#public-art.csv#Ownership
+community-centres.csv,NAME,cultural-spaces.csv,NUMBER_OF_SEATS,community-centres.csv#NAME#cultural-spaces.csv#NUMBER_OF_SEATS
+cultural-spaces.csv,Geom,road-ahead-current-road-closures.csv,Geom,cultural-spaces.csv#Geom#road-ahead-current-road-closures.csv#Geom
