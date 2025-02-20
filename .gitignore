@@ -1,1 +1,4 @@
 .ipynb_checkpoints/
+LakeBench/data_ssd/
+LakeBench/datasets_SG
+*.tar.gz
