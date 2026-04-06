@@ -1,4 +1,5 @@
 import json
+import os
 import re
 import time
 from pathlib import Path
@@ -6,6 +7,8 @@ from pathlib import Path
 import requests
 from typing import Generator, Iterator, Type, TypeVar
 
+import torch
+from huggingface_hub import InferenceClient
 from openai import OpenAI
 from ollama import Client
 from pydantic import BaseModel
@@ -13,6 +16,7 @@ from pydantic import BaseModel
 from abc import ABC, abstractmethod
 
 from tenacity import wait_random_exponential, stop_after_attempt, retry
+from transformers import AutoModelForCausalLM, AutoTokenizer
 
 T = TypeVar("T", bound=BaseModel)
 
@@ -424,3 +428,99 @@ class LocalOpenAILikeService(LLMService):
         messages.append({"role": "user", "content": user_msg})
         return messages
 
+
+class HuggingFaceService(LLMService):
+    def __init__(self, config: dict):
+        super().__init__(config)
+        self.api_key = (
+            config.get("api_key")
+            or config.get("hf_token")
+            or os.getenv("HF_TOKEN")
+            or os.getenv("HUGGINGFACEHUB_API_TOKEN")
+        )
+        self.model = config.get("model", "LiquidAI/LFM2.5-350M")
+        self.stream = config.get("stream", False)
+        self.max_tokens = config.get("max_tokens", 512)
+        self.temperature = config.get("temperature", 0.2)
+
+        # remoto só se tiver token
+        self.client = InferenceClient(api_key=self.api_key) if self.api_key else None
+
+        # fallback local lazy-load
+        self._local_tokenizer = None
+        self._local_model = None
+
+    def _build_messages(self, system_msg: str | None, user_msg: str) -> list[dict]:
+        messages = []
+        if system_msg:
+            messages.append({"role": "system", "content": system_msg})
+        messages.append({"role": "user", "content": user_msg})
+        return messages
+
+    def _build_prompt(self, system_msg: str | None, user_msg: str) -> str:
+        if system_msg:
+            return f"[SYSTEM]\n{system_msg}\n\n[USER]\n{user_msg}\n\n[ASSISTANT]\n"
+        return f"[USER]\n{user_msg}\n\n[ASSISTANT]\n"
+
+    def _ensure_local_loaded(self):
+        if self._local_model is None or self._local_tokenizer is None:
+            self._local_tokenizer = AutoTokenizer.from_pretrained(self.model)
+            self._local_model = AutoModelForCausalLM.from_pretrained(
+                self.model,
+                torch_dtype=torch.float16 if torch.cuda.is_available() else torch.float32,
+                device_map="auto",
+            )
+
+    def _generate_local(self, system_msg: str | None, user_msg: str) -> str:
+        self._ensure_local_loaded()
+        prompt = self._build_prompt(system_msg, user_msg)
+        inputs = self._local_tokenizer(prompt, return_tensors="pt").to(self._local_model.device)
+        output = self._local_model.generate(
+            **inputs,
+            max_new_tokens=self.max_tokens,
+            do_sample=self.temperature > 0,
+            temperature=self.temperature if self.temperature > 0 else None,
+        )
+        text = self._local_tokenizer.decode(output[0], skip_special_tokens=True)
+        return text[len(prompt):].strip() if text.startswith(prompt) else text.strip()
+
+    @retry(wait=wait_random_exponential(min=1, max=20), stop=stop_after_attempt(3))
+    def _generate_remote(self, system_msg: str | None, user_msg: str) -> str:
+        if not self.client:
+            raise RuntimeError("No HF token configured for remote inference.")
+        messages = self._build_messages(system_msg, user_msg)
+        resp = self.client.chat.completions.create(
+            model=self.model,
+            messages=messages,
+            max_tokens=self.max_tokens,
+            temperature=self.temperature,
+            stream=False,
+        )
+        return resp.choices[0].message.content or ""
+
+    def generate(self, system_msg: str | None, user_msg: str) -> str:
+        # tenta remoto se tiver token; se falhar, fallback local
+        if self.client:
+            try:
+                return self._generate_remote(system_msg, user_msg)
+            except Exception:
+                pass
+        return self._generate_local(system_msg, user_msg)
+
+    def generate_stream(self, system_msg: str | None, user_msg: str) -> Generator[str, None, None]:
+        # streaming real no fallback local é mais complexo; aqui devolve em chunk único
+        yield self.generate(system_msg, user_msg)
+
+    def generate_structured(self, system_msg: str | None, user_msg: str, base_model: Type[T]) -> T:
+        schema_json = json.dumps(base_model.model_json_schema(), indent=2)
+        structured_user_msg = (
+            "Respond ONLY with valid JSON matching this schema:\n\n"
+            f"{schema_json}\n\nRequest:\n{user_msg}"
+        )
+        raw = self.generate(system_msg, structured_user_msg)
+
+        match = re.search(r"\{.*\}", raw, re.S)
+        if not match:
+            raise RuntimeError(f"Could not extract JSON from output: {raw}")
+
+        return base_model.model_validate_json(match.group(0))
