@@ -4,3 +4,5 @@ LakeBench/datasets_SG
 *.tar.gz
 *.npy
 *.csv
+*.tmp
+tmp*
