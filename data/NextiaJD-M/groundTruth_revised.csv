@@ -1,0 +1,305 @@
+LEFT_TABLE;LEFT_COLUMN;RIGHT_TABLE;RIGHT_COLUMN;KEY;JOINABLE_LEVEL
+2020-04-27 Coronavirus Tweets.CSV;country_code;glassdoor.csv;mapcountry;2020-04-27 Coronavirus Tweets.CSV#country_code#glassdoor.csv#mapcountry;4
+2020-04-29 Coronavirus Tweets.CSV;country_code;glassdoor.csv;mapcountry;2020-04-29 Coronavirus Tweets.CSV#country_code#glassdoor.csv#mapcountry;4
+2020-04-26 Coronavirus Tweets.CSV;country_code;glassdoor.csv;mapcountry;2020-04-26 Coronavirus Tweets.CSV#country_code#glassdoor.csv#mapcountry;4
+glassdoor.csv;headerlocationType;us_perm_visas.csv;schd_a_sheepherder;glassdoor.csv#headerlocationType#us_perm_visas.csv#schd_a_sheepherder;2
+glassdoor.csv;mapcountry;us_perm_visas.csv;country_of_citzenship;glassdoor.csv#mapcountry#us_perm_visas.csv#country_of_citzenship;4
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;foreign_worker_info_alt_edu_experience;glassdoor.csv#salarycountrytype#us_perm_visas.csv#foreign_worker_info_alt_edu_experience;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;foreign_worker_info_rel_occup_exp;glassdoor.csv#salarycountrytype#us_perm_visas.csv#foreign_worker_info_rel_occup_exp;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;foreign_worker_info_req_experience;glassdoor.csv#salarycountrytype#us_perm_visas.csv#foreign_worker_info_req_experience;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;foreign_worker_info_training_comp;glassdoor.csv#salarycountrytype#us_perm_visas.csv#foreign_worker_info_training_comp;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;foreign_worker_ownership_interest;glassdoor.csv#salarycountrytype#us_perm_visas.csv#foreign_worker_ownership_interest;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;fw_info_alt_edu_experience;glassdoor.csv#salarycountrytype#us_perm_visas.csv#fw_info_alt_edu_experience;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;fw_info_rel_occup_exp;glassdoor.csv#salarycountrytype#us_perm_visas.csv#fw_info_rel_occup_exp;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;fw_info_req_experience;glassdoor.csv#salarycountrytype#us_perm_visas.csv#fw_info_req_experience;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;fw_info_training_comp;glassdoor.csv#salarycountrytype#us_perm_visas.csv#fw_info_training_comp;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;fw_ownership_interest;glassdoor.csv#salarycountrytype#us_perm_visas.csv#fw_ownership_interest;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;ji_foreign_worker_live_on_premises;glassdoor.csv#salarycountrytype#us_perm_visas.csv#ji_foreign_worker_live_on_premises;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;ji_fw_live_on_premises;glassdoor.csv#salarycountrytype#us_perm_visas.csv#ji_fw_live_on_premises;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;ji_live_in_dom_svc_contract;glassdoor.csv#salarycountrytype#us_perm_visas.csv#ji_live_in_dom_svc_contract;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;ji_live_in_domestic_service;glassdoor.csv#salarycountrytype#us_perm_visas.csv#ji_live_in_domestic_service;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;ji_offered_to_sec_j_foreign_worker;glassdoor.csv#salarycountrytype#us_perm_visas.csv#ji_offered_to_sec_j_foreign_worker;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;ji_offered_to_sec_j_fw;glassdoor.csv#salarycountrytype#us_perm_visas.csv#ji_offered_to_sec_j_fw;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;job_info_alt_combo_ed_exp;glassdoor.csv#salarycountrytype#us_perm_visas.csv#job_info_alt_combo_ed_exp;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;job_info_alt_field;glassdoor.csv#salarycountrytype#us_perm_visas.csv#job_info_alt_field;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;job_info_combo_occupation;glassdoor.csv#salarycountrytype#us_perm_visas.csv#job_info_combo_occupation;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;job_info_experience;glassdoor.csv#salarycountrytype#us_perm_visas.csv#job_info_experience;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;job_info_foreign_ed;glassdoor.csv#salarycountrytype#us_perm_visas.csv#job_info_foreign_ed;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;job_info_foreign_lang_req;glassdoor.csv#salarycountrytype#us_perm_visas.csv#job_info_foreign_lang_req;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;job_info_job_req_normal;glassdoor.csv#salarycountrytype#us_perm_visas.csv#job_info_job_req_normal;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;job_info_training;glassdoor.csv#salarycountrytype#us_perm_visas.csv#job_info_training;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;preparer_info_emp_completed;glassdoor.csv#salarycountrytype#us_perm_visas.csv#preparer_info_emp_completed;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;rec_info_barg_rep_notified;glassdoor.csv#salarycountrytype#us_perm_visas.csv#rec_info_barg_rep_notified;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;recr_info_barg_rep_notified;glassdoor.csv#salarycountrytype#us_perm_visas.csv#recr_info_barg_rep_notified;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;recr_info_coll_teach_comp_proc;glassdoor.csv#salarycountrytype#us_perm_visas.csv#recr_info_coll_teach_comp_proc;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;recr_info_coll_univ_teacher;glassdoor.csv#salarycountrytype#us_perm_visas.csv#recr_info_coll_univ_teacher;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;recr_info_employer_rec_payment;glassdoor.csv#salarycountrytype#us_perm_visas.csv#recr_info_employer_rec_payment;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;recr_info_professional_occ;glassdoor.csv#salarycountrytype#us_perm_visas.csv#recr_info_professional_occ;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;recr_info_sunday_newspaper;glassdoor.csv#salarycountrytype#us_perm_visas.csv#recr_info_sunday_newspaper;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;refile;glassdoor.csv#salarycountrytype#us_perm_visas.csv#refile;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;ri_2nd_ad_newspaper_or_journal;glassdoor.csv#salarycountrytype#us_perm_visas.csv#ri_2nd_ad_newspaper_or_journal;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;ri_coll_tch_basic_process;glassdoor.csv#salarycountrytype#us_perm_visas.csv#ri_coll_tch_basic_process;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;ri_layoff_in_past_six_months;glassdoor.csv#salarycountrytype#us_perm_visas.csv#ri_layoff_in_past_six_months;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;ri_posted_notice_at_worksite;glassdoor.csv#salarycountrytype#us_perm_visas.csv#ri_posted_notice_at_worksite;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;ri_us_workers_considered;glassdoor.csv#salarycountrytype#us_perm_visas.csv#ri_us_workers_considered;2
+glassdoor.csv;salarycountrytype;us_perm_visas.csv;schd_a_sheepherder;glassdoor.csv#salarycountrytype#us_perm_visas.csv#schd_a_sheepherder;2
+covid-19_tw.csv;Country;glassdoor.csv;mapcountry;covid-19_tw.csv#Country#glassdoor.csv#mapcountry;1
+DatafinitiElectronicsProductsPricingData.csv;pricescurrency;glassdoor.csv;salarycurrencycurrencyCode;DatafinitiElectronicsProductsPricingData.csv#pricescurrency#glassdoor.csv#salarycurrencycurrencyCode;1
+2020-04-25 Coronavirus Tweets.CSV;country_code;glassdoor.csv;mapcountry;2020-04-25 Coronavirus Tweets.CSV#country_code#glassdoor.csv#mapcountry;1
+glassdoor.csv;salarycountrytype;previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;glassdoor.csv#salarycountrytype#previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT;1
+glassdoor.csv;headerlocationType;otp.csv;direction;glassdoor.csv#headerlocationType#otp.csv#direction;1
+glassdoor.csv;salarycountrytype;otp.csv;direction;glassdoor.csv#salarycountrytype#otp.csv#direction;1
+2020-04-16 Coronavirus Tweets.CSV;country_code;glassdoor.csv;mapcountry;2020-04-16 Coronavirus Tweets.CSV#country_code#glassdoor.csv#mapcountry;1
+glassdoor.csv;salarycountrytype;yellow_tripdata_2019-01.csv;store_and_fwd_flag;glassdoor.csv#salarycountrytype#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+homicide_reports.csv;Crime Solved;saudi-hourly-weather-data.csv;sky_cavok;homicide_reports.csv#Crime Solved#saudi-hourly-weather-data.csv#sky_cavok;1
+Consumer_Complaints.csv;Timely response;saudi-hourly-weather-data.csv;sky_cavok;Consumer_Complaints.csv#Timely response#saudi-hourly-weather-data.csv#sky_cavok;1
+all_anonymized_2015_11_2017_03.csv;seat_count;trainView.csv;status;all_anonymized_2015_11_2017_03.csv#seat_count#trainView.csv#status;1
+otp.csv;train_id;trainView.csv;train_id;otp.csv#train_id#trainView.csv#train_id;4
+otp.csv;origin;trainView.csv;next_station;otp.csv#origin#trainView.csv#next_station;3
+otp.csv;next_station;trainView.csv;next_station;otp.csv#next_station#trainView.csv#next_station;4
+otp.csv;origin;trainView.csv;dest;otp.csv#origin#trainView.csv#dest;3
+otp.csv;next_station;trainView.csv;dest;otp.csv#next_station#trainView.csv#dest;4
+otp.csv;origin;trainView.csv;source;otp.csv#origin#trainView.csv#source;4
+otp.csv;next_station;trainView.csv;source;otp.csv#next_station#trainView.csv#source;3
+otp.csv;date;trainView.csv;date;otp.csv#date#trainView.csv#date;4
+Chicago_Crimes_2008_to_2011.csv;Block;Chicago_Crimes_2012_to_2017.csv;Block;Chicago_Crimes_2008_to_2011.csv#Block#Chicago_Crimes_2012_to_2017.csv#Block;4
+Chicago_Crimes_2008_to_2011.csv;IUCR;Chicago_Crimes_2012_to_2017.csv;IUCR;Chicago_Crimes_2008_to_2011.csv#IUCR#Chicago_Crimes_2012_to_2017.csv#IUCR;4
+Chicago_Crimes_2008_to_2011.csv;Primary Type;Chicago_Crimes_2012_to_2017.csv;Primary Type;Chicago_Crimes_2008_to_2011.csv#Primary Type#Chicago_Crimes_2012_to_2017.csv#Primary Type;4
+Chicago_Crimes_2008_to_2011.csv;Description;Chicago_Crimes_2012_to_2017.csv;Description;Chicago_Crimes_2008_to_2011.csv#Description#Chicago_Crimes_2012_to_2017.csv#Description;4
+Chicago_Crimes_2008_to_2011.csv;Location Description;Chicago_Crimes_2012_to_2017.csv;Location Description;Chicago_Crimes_2008_to_2011.csv#Location Description#Chicago_Crimes_2012_to_2017.csv#Location Description;4
+Chicago_Crimes_2008_to_2011.csv;FBI Code;Chicago_Crimes_2012_to_2017.csv;FBI Code;Chicago_Crimes_2008_to_2011.csv#FBI Code#Chicago_Crimes_2012_to_2017.csv#FBI Code;4
+Chicago_Crimes_2008_to_2011.csv;Updated On;Chicago_Crimes_2012_to_2017.csv;Updated On;Chicago_Crimes_2008_to_2011.csv#Updated On#Chicago_Crimes_2012_to_2017.csv#Updated On;4
+Chicago_Crimes_2005_to_2007.csv;Block;Chicago_Crimes_2012_to_2017.csv;Block;Chicago_Crimes_2005_to_2007.csv#Block#Chicago_Crimes_2012_to_2017.csv#Block;4
+Chicago_Crimes_2005_to_2007.csv;IUCR;Chicago_Crimes_2012_to_2017.csv;IUCR;Chicago_Crimes_2005_to_2007.csv#IUCR#Chicago_Crimes_2012_to_2017.csv#IUCR;4
+Chicago_Crimes_2005_to_2007.csv;Primary Type;Chicago_Crimes_2012_to_2017.csv;Primary Type;Chicago_Crimes_2005_to_2007.csv#Primary Type#Chicago_Crimes_2012_to_2017.csv#Primary Type;4
+Chicago_Crimes_2005_to_2007.csv;Description;Chicago_Crimes_2012_to_2017.csv;Description;Chicago_Crimes_2005_to_2007.csv#Description#Chicago_Crimes_2012_to_2017.csv#Description;4
+Chicago_Crimes_2005_to_2007.csv;Location Description;Chicago_Crimes_2012_to_2017.csv;Location Description;Chicago_Crimes_2005_to_2007.csv#Location Description#Chicago_Crimes_2012_to_2017.csv#Location Description;4
+Chicago_Crimes_2005_to_2007.csv;FBI Code;Chicago_Crimes_2012_to_2017.csv;FBI Code;Chicago_Crimes_2005_to_2007.csv#FBI Code#Chicago_Crimes_2012_to_2017.csv#FBI Code;4
+Chicago_Crimes_2001_to_2004.csv;Block;Chicago_Crimes_2012_to_2017.csv;Block;Chicago_Crimes_2001_to_2004.csv#Block#Chicago_Crimes_2012_to_2017.csv#Block;4
+Chicago_Crimes_2001_to_2004.csv;IUCR;Chicago_Crimes_2012_to_2017.csv;IUCR;Chicago_Crimes_2001_to_2004.csv#IUCR#Chicago_Crimes_2012_to_2017.csv#IUCR;4
+Chicago_Crimes_2001_to_2004.csv;Primary Type;Chicago_Crimes_2012_to_2017.csv;Primary Type;Chicago_Crimes_2001_to_2004.csv#Primary Type#Chicago_Crimes_2012_to_2017.csv#Primary Type;4
+Chicago_Crimes_2001_to_2004.csv;Description;Chicago_Crimes_2012_to_2017.csv;Description;Chicago_Crimes_2001_to_2004.csv#Description#Chicago_Crimes_2012_to_2017.csv#Description;4
+Chicago_Crimes_2001_to_2004.csv;Location Description;Chicago_Crimes_2012_to_2017.csv;Location Description;Chicago_Crimes_2001_to_2004.csv#Location Description#Chicago_Crimes_2012_to_2017.csv#Location Description;4
+Chicago_Crimes_2001_to_2004.csv;FBI Code;Chicago_Crimes_2012_to_2017.csv;FBI Code;Chicago_Crimes_2001_to_2004.csv#FBI Code#Chicago_Crimes_2012_to_2017.csv#FBI Code;4
+2020-04-27 Coronavirus Tweets.CSV;country_code;2020-04-29 Coronavirus Tweets.CSV;country_code;2020-04-27 Coronavirus Tweets.CSV#country_code#2020-04-29 Coronavirus Tweets.CSV#country_code;4
+2020-04-27 Coronavirus Tweets.CSV;place_type;2020-04-29 Coronavirus Tweets.CSV;place_type;2020-04-27 Coronavirus Tweets.CSV#place_type#2020-04-29 Coronavirus Tweets.CSV#place_type;4
+2020-04-27 Coronavirus Tweets.CSV;lang;2020-04-29 Coronavirus Tweets.CSV;lang;2020-04-27 Coronavirus Tweets.CSV#lang#2020-04-29 Coronavirus Tweets.CSV#lang;4
+2020-04-26 Coronavirus Tweets.CSV;source;2020-04-27 Coronavirus Tweets.CSV;source;2020-04-26 Coronavirus Tweets.CSV#source#2020-04-27 Coronavirus Tweets.CSV#source;4
+2020-04-26 Coronavirus Tweets.CSV;country_code;2020-04-27 Coronavirus Tweets.CSV;country_code;2020-04-26 Coronavirus Tweets.CSV#country_code#2020-04-27 Coronavirus Tweets.CSV#country_code;4
+2020-04-26 Coronavirus Tweets.CSV;place_type;2020-04-27 Coronavirus Tweets.CSV;place_type;2020-04-26 Coronavirus Tweets.CSV#place_type#2020-04-27 Coronavirus Tweets.CSV#place_type;4
+2020-04-26 Coronavirus Tweets.CSV;lang;2020-04-27 Coronavirus Tweets.CSV;lang;2020-04-26 Coronavirus Tweets.CSV#lang#2020-04-27 Coronavirus Tweets.CSV#lang;4
+2020-04-25 Coronavirus Tweets.CSV;source;2020-04-27 Coronavirus Tweets.CSV;source;2020-04-25 Coronavirus Tweets.CSV#source#2020-04-27 Coronavirus Tweets.CSV#source;4
+2020-04-25 Coronavirus Tweets.CSV;country_code;2020-04-27 Coronavirus Tweets.CSV;country_code;2020-04-25 Coronavirus Tweets.CSV#country_code#2020-04-27 Coronavirus Tweets.CSV#country_code;4
+2020-04-25 Coronavirus Tweets.CSV;place_type;2020-04-27 Coronavirus Tweets.CSV;place_type;2020-04-25 Coronavirus Tweets.CSV#place_type#2020-04-27 Coronavirus Tweets.CSV#place_type;4
+2020-04-25 Coronavirus Tweets.CSV;lang;2020-04-27 Coronavirus Tweets.CSV;lang;2020-04-25 Coronavirus Tweets.CSV#lang#2020-04-27 Coronavirus Tweets.CSV#lang;4
+2020-04-16 Coronavirus Tweets.CSV;country_code;2020-04-27 Coronavirus Tweets.CSV;country_code;2020-04-16 Coronavirus Tweets.CSV#country_code#2020-04-27 Coronavirus Tweets.CSV#country_code;4
+2020-04-16 Coronavirus Tweets.CSV;place_type;2020-04-27 Coronavirus Tweets.CSV;place_type;2020-04-16 Coronavirus Tweets.CSV#place_type#2020-04-27 Coronavirus Tweets.CSV#place_type;4
+2020-04-16 Coronavirus Tweets.CSV;lang;2020-04-27 Coronavirus Tweets.CSV;lang;2020-04-16 Coronavirus Tweets.CSV#lang#2020-04-27 Coronavirus Tweets.CSV#lang;4
+2020-04-26 Coronavirus Tweets.CSV;source;2020-04-29 Coronavirus Tweets.CSV;source;2020-04-26 Coronavirus Tweets.CSV#source#2020-04-29 Coronavirus Tweets.CSV#source;4
+2020-04-26 Coronavirus Tweets.CSV;country_code;2020-04-29 Coronavirus Tweets.CSV;country_code;2020-04-26 Coronavirus Tweets.CSV#country_code#2020-04-29 Coronavirus Tweets.CSV#country_code;4
+2020-04-26 Coronavirus Tweets.CSV;place_type;2020-04-29 Coronavirus Tweets.CSV;place_type;2020-04-26 Coronavirus Tweets.CSV#place_type#2020-04-29 Coronavirus Tweets.CSV#place_type;4
+2020-04-26 Coronavirus Tweets.CSV;lang;2020-04-29 Coronavirus Tweets.CSV;lang;2020-04-26 Coronavirus Tweets.CSV#lang#2020-04-29 Coronavirus Tweets.CSV#lang;4
+2020-04-25 Coronavirus Tweets.CSV;source;2020-04-29 Coronavirus Tweets.CSV;source;2020-04-25 Coronavirus Tweets.CSV#source#2020-04-29 Coronavirus Tweets.CSV#source;4
+2020-04-25 Coronavirus Tweets.CSV;country_code;2020-04-29 Coronavirus Tweets.CSV;country_code;2020-04-25 Coronavirus Tweets.CSV#country_code#2020-04-29 Coronavirus Tweets.CSV#country_code;4
+2020-04-25 Coronavirus Tweets.CSV;place_type;2020-04-29 Coronavirus Tweets.CSV;place_type;2020-04-25 Coronavirus Tweets.CSV#place_type#2020-04-29 Coronavirus Tweets.CSV#place_type;4
+2020-04-25 Coronavirus Tweets.CSV;lang;2020-04-29 Coronavirus Tweets.CSV;lang;2020-04-25 Coronavirus Tweets.CSV#lang#2020-04-29 Coronavirus Tweets.CSV#lang;4
+2020-04-16 Coronavirus Tweets.CSV;country_code;2020-04-29 Coronavirus Tweets.CSV;country_code;2020-04-16 Coronavirus Tweets.CSV#country_code#2020-04-29 Coronavirus Tweets.CSV#country_code;4
+2020-04-16 Coronavirus Tweets.CSV;place_type;2020-04-29 Coronavirus Tweets.CSV;place_type;2020-04-16 Coronavirus Tweets.CSV#place_type#2020-04-29 Coronavirus Tweets.CSV#place_type;4
+2020-04-16 Coronavirus Tweets.CSV;lang;2020-04-29 Coronavirus Tweets.CSV;lang;2020-04-16 Coronavirus Tweets.CSV#lang#2020-04-29 Coronavirus Tweets.CSV#lang;4
+business-licences.csv;ExpiredDate;reviews_summary.csv;date;business-licences.csv#ExpiredDate#reviews_summary.csv#date;1
+business-licences.csv;ExpiredDate;reviews_detailed.csv;date;business-licences.csv#ExpiredDate#reviews_detailed.csv#date;1
+artists.csv;country_mb;us_perm_visas.csv;country_of_citizenship;artists.csv#country_mb#us_perm_visas.csv#country_of_citizenship;4
+artists.csv;country_mb;us_perm_visas.csv;country_of_citzenship;artists.csv#country_mb#us_perm_visas.csv#country_of_citzenship;4
+artists.csv;country_mb;us_perm_visas.csv;foreign_worker_info_birth_country;artists.csv#country_mb#us_perm_visas.csv#foreign_worker_info_birth_country;4
+artists.csv;country_mb;us_perm_visas.csv;fw_info_birth_country;artists.csv#country_mb#us_perm_visas.csv#fw_info_birth_country;4
+artists.csv;country_mb;covid-19_tw.csv;Country;artists.csv#country_mb#covid-19_tw.csv#Country;1
+2020-04-25 Coronavirus Tweets.CSV;country_code;2020-04-26 Coronavirus Tweets.CSV;country_code;2020-04-25 Coronavirus Tweets.CSV#country_code#2020-04-26 Coronavirus Tweets.CSV#country_code;4
+2020-04-25 Coronavirus Tweets.CSV;place_type;2020-04-26 Coronavirus Tweets.CSV;place_type;2020-04-25 Coronavirus Tweets.CSV#place_type#2020-04-26 Coronavirus Tweets.CSV#place_type;4
+2020-04-25 Coronavirus Tweets.CSV;lang;2020-04-26 Coronavirus Tweets.CSV;lang;2020-04-25 Coronavirus Tweets.CSV#lang#2020-04-26 Coronavirus Tweets.CSV#lang;4
+2020-04-16 Coronavirus Tweets.CSV;country_code;2020-04-26 Coronavirus Tweets.CSV;country_code;2020-04-16 Coronavirus Tweets.CSV#country_code#2020-04-26 Coronavirus Tweets.CSV#country_code;4
+2020-04-16 Coronavirus Tweets.CSV;place_type;2020-04-26 Coronavirus Tweets.CSV;place_type;2020-04-16 Coronavirus Tweets.CSV#place_type#2020-04-26 Coronavirus Tweets.CSV#place_type;4
+2020-04-16 Coronavirus Tweets.CSV;lang;2020-04-26 Coronavirus Tweets.CSV;lang;2020-04-16 Coronavirus Tweets.CSV#lang#2020-04-26 Coronavirus Tweets.CSV#lang;4
+homicide_reports.csv;State;us_perm_visas.csv;agent_state;homicide_reports.csv#State#us_perm_visas.csv#agent_state;1
+homicide_reports.csv;State;us_perm_visas.csv;employer_state;homicide_reports.csv#State#us_perm_visas.csv#employer_state;1
+homicide_reports.csv;State;us_perm_visas.csv;foreign_worker_info_state;homicide_reports.csv#State#us_perm_visas.csv#foreign_worker_info_state;1
+homicide_reports.csv;State;us_perm_visas.csv;job_info_work_state;homicide_reports.csv#State#us_perm_visas.csv#job_info_work_state;1
+covid-19_tw.csv;Country;us_perm_visas.csv;country_of_citizenship;covid-19_tw.csv#Country#us_perm_visas.csv#country_of_citizenship;1
+covid-19_tw.csv;Country;us_perm_visas.csv;foreign_worker_info_birth_country;covid-19_tw.csv#Country#us_perm_visas.csv#foreign_worker_info_birth_country;1
+covid-19_tw.csv;Country;us_perm_visas.csv;fw_info_birth_country;covid-19_tw.csv#Country#us_perm_visas.csv#fw_info_birth_country;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;foreign_worker_info_alt_edu_experience;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#foreign_worker_info_alt_edu_experience;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;foreign_worker_info_rel_occup_exp;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#foreign_worker_info_rel_occup_exp;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;foreign_worker_info_req_experience;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#foreign_worker_info_req_experience;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;foreign_worker_info_training_comp;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#foreign_worker_info_training_comp;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;foreign_worker_ownership_interest;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#foreign_worker_ownership_interest;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;fw_info_alt_edu_experience;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#fw_info_alt_edu_experience;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;fw_info_rel_occup_exp;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#fw_info_rel_occup_exp;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;fw_info_req_experience;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#fw_info_req_experience;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;fw_info_training_comp;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#fw_info_training_comp;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;fw_ownership_interest;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#fw_ownership_interest;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;ji_foreign_worker_live_on_premises;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#ji_foreign_worker_live_on_premises;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;ji_fw_live_on_premises;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#ji_fw_live_on_premises;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;ji_live_in_dom_svc_contract;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#ji_live_in_dom_svc_contract;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;ji_live_in_domestic_service;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#ji_live_in_domestic_service;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;ji_offered_to_sec_j_foreign_worker;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#ji_offered_to_sec_j_foreign_worker;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;ji_offered_to_sec_j_fw;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#ji_offered_to_sec_j_fw;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;job_info_alt_combo_ed_exp;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#job_info_alt_combo_ed_exp;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;job_info_alt_field;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#job_info_alt_field;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;job_info_combo_occupation;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#job_info_combo_occupation;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;job_info_experience;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#job_info_experience;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;job_info_foreign_ed;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#job_info_foreign_ed;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;job_info_foreign_lang_req;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#job_info_foreign_lang_req;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;job_info_job_req_normal;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#job_info_job_req_normal;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;job_info_training;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#job_info_training;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;preparer_info_emp_completed;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#preparer_info_emp_completed;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;rec_info_barg_rep_notified;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#rec_info_barg_rep_notified;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;recr_info_barg_rep_notified;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#recr_info_barg_rep_notified;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;recr_info_coll_teach_comp_proc;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#recr_info_coll_teach_comp_proc;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;recr_info_coll_univ_teacher;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#recr_info_coll_univ_teacher;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;recr_info_employer_rec_payment;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#recr_info_employer_rec_payment;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;recr_info_professional_occ;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#recr_info_professional_occ;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;recr_info_sunday_newspaper;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#recr_info_sunday_newspaper;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;refile;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#refile;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;ri_2nd_ad_newspaper_or_journal;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#ri_2nd_ad_newspaper_or_journal;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;ri_coll_tch_basic_process;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#ri_coll_tch_basic_process;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;ri_layoff_in_past_six_months;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#ri_layoff_in_past_six_months;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;ri_posted_notice_at_worksite;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#ri_posted_notice_at_worksite;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;ri_us_workers_considered;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#ri_us_workers_considered;1
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;us_perm_visas.csv;schd_a_sheepherder;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#us_perm_visas.csv#schd_a_sheepherder;1
+otp.csv;direction;us_perm_visas.csv;schd_a_sheepherder;otp.csv#direction#us_perm_visas.csv#schd_a_sheepherder;1
+COTAHIST_A2009_to_A2019.csv;DATPRE;us_perm_visas.csv;decision_date;COTAHIST_A2009_to_A2019.csv#DATPRE#us_perm_visas.csv#decision_date;1
+COTAHIST_A2009_to_A2019.csv;DATPRE;us_perm_visas.csv;pw_determ_date;COTAHIST_A2009_to_A2019.csv#DATPRE#us_perm_visas.csv#pw_determ_date;1
+COTAHIST_A2009_to_A2019.csv;DATPRE;us_perm_visas.csv;recr_info_on_campus_recr_from;COTAHIST_A2009_to_A2019.csv#DATPRE#us_perm_visas.csv#recr_info_on_campus_recr_from;1
+COTAHIST_A2009_to_A2019.csv;DATPRE;us_perm_visas.csv;recr_info_on_campus_recr_to;COTAHIST_A2009_to_A2019.csv#DATPRE#us_perm_visas.csv#recr_info_on_campus_recr_to;1
+COTAHIST_A2009_to_A2019.csv;DATPRE;us_perm_visas.csv;recr_info_pro_org_advert_from;COTAHIST_A2009_to_A2019.csv#DATPRE#us_perm_visas.csv#recr_info_pro_org_advert_from;1
+COTAHIST_A2009_to_A2019.csv;DATPRE;us_perm_visas.csv;recr_info_prof_org_advert_from;COTAHIST_A2009_to_A2019.csv#DATPRE#us_perm_visas.csv#recr_info_prof_org_advert_from;1
+COTAHIST_A2009_to_A2019.csv;DATPRE;us_perm_visas.csv;ri_campus_placement_from;COTAHIST_A2009_to_A2019.csv#DATPRE#us_perm_visas.csv#ri_campus_placement_from;1
+COTAHIST_A2009_to_A2019.csv;DATPRE;us_perm_visas.csv;ri_coll_teach_select_date;COTAHIST_A2009_to_A2019.csv#DATPRE#us_perm_visas.csv#ri_coll_teach_select_date;1
+COTAHIST_A2009_to_A2019.csv;DATPRE;us_perm_visas.csv;ri_pvt_employment_firm_from;COTAHIST_A2009_to_A2019.csv#DATPRE#us_perm_visas.csv#ri_pvt_employment_firm_from;1
+reviews_summary.csv;date;us_perm_visas.csv;case_received_date;reviews_summary.csv#date#us_perm_visas.csv#case_received_date;1
+reviews_summary.csv;date;us_perm_visas.csv;decision_date;reviews_summary.csv#date#us_perm_visas.csv#decision_date;1
+reviews_summary.csv;date;us_perm_visas.csv;pw_determ_date;reviews_summary.csv#date#us_perm_visas.csv#pw_determ_date;1
+reviews_summary.csv;date;us_perm_visas.csv;pw_expire_date;reviews_summary.csv#date#us_perm_visas.csv#pw_expire_date;1
+reviews_summary.csv;date;us_perm_visas.csv;recr_info_first_ad_start;reviews_summary.csv#date#us_perm_visas.csv#recr_info_first_ad_start;1
+reviews_summary.csv;date;us_perm_visas.csv;recr_info_on_campus_recr_from;reviews_summary.csv#date#us_perm_visas.csv#recr_info_on_campus_recr_from;1
+reviews_summary.csv;date;us_perm_visas.csv;recr_info_on_campus_recr_to;reviews_summary.csv#date#us_perm_visas.csv#recr_info_on_campus_recr_to;1
+reviews_summary.csv;date;us_perm_visas.csv;recr_info_pro_org_advert_from;reviews_summary.csv#date#us_perm_visas.csv#recr_info_pro_org_advert_from;1
+reviews_summary.csv;date;us_perm_visas.csv;recr_info_pro_org_advert_to;reviews_summary.csv#date#us_perm_visas.csv#recr_info_pro_org_advert_to;1
+reviews_summary.csv;date;us_perm_visas.csv;recr_info_prof_org_advert_from;reviews_summary.csv#date#us_perm_visas.csv#recr_info_prof_org_advert_from;1
+reviews_summary.csv;date;us_perm_visas.csv;recr_info_prof_org_advert_to;reviews_summary.csv#date#us_perm_visas.csv#recr_info_prof_org_advert_to;1
+reviews_summary.csv;date;us_perm_visas.csv;recr_info_radio_tv_ad_from;reviews_summary.csv#date#us_perm_visas.csv#recr_info_radio_tv_ad_from;1
+reviews_summary.csv;date;us_perm_visas.csv;recr_info_radio_tv_ad_to;reviews_summary.csv#date#us_perm_visas.csv#recr_info_radio_tv_ad_to;1
+reviews_summary.csv;date;us_perm_visas.csv;recr_info_second_ad_start;reviews_summary.csv#date#us_perm_visas.csv#recr_info_second_ad_start;1
+reviews_summary.csv;date;us_perm_visas.csv;recr_info_swa_job_order_end;reviews_summary.csv#date#us_perm_visas.csv#recr_info_swa_job_order_end;1
+reviews_summary.csv;date;us_perm_visas.csv;recr_info_swa_job_order_start;reviews_summary.csv#date#us_perm_visas.csv#recr_info_swa_job_order_start;1
+reviews_summary.csv;date;us_perm_visas.csv;ri_campus_placement_from;reviews_summary.csv#date#us_perm_visas.csv#ri_campus_placement_from;1
+reviews_summary.csv;date;us_perm_visas.csv;ri_campus_placement_to;reviews_summary.csv#date#us_perm_visas.csv#ri_campus_placement_to;1
+reviews_summary.csv;date;us_perm_visas.csv;ri_coll_teach_select_date;reviews_summary.csv#date#us_perm_visas.csv#ri_coll_teach_select_date;1
+reviews_summary.csv;date;us_perm_visas.csv;ri_employee_referral_prog_from;reviews_summary.csv#date#us_perm_visas.csv#ri_employee_referral_prog_from;1
+reviews_summary.csv;date;us_perm_visas.csv;ri_employee_referral_prog_to;reviews_summary.csv#date#us_perm_visas.csv#ri_employee_referral_prog_to;1
+reviews_summary.csv;date;us_perm_visas.csv;ri_employer_web_post_from;reviews_summary.csv#date#us_perm_visas.csv#ri_employer_web_post_from;1
+reviews_summary.csv;date;us_perm_visas.csv;ri_employer_web_post_to;reviews_summary.csv#date#us_perm_visas.csv#ri_employer_web_post_to;1
+reviews_summary.csv;date;us_perm_visas.csv;ri_job_search_website_from;reviews_summary.csv#date#us_perm_visas.csv#ri_job_search_website_from;1
+reviews_summary.csv;date;us_perm_visas.csv;ri_job_search_website_to;reviews_summary.csv#date#us_perm_visas.csv#ri_job_search_website_to;1
+reviews_summary.csv;date;us_perm_visas.csv;ri_local_ethnic_paper_from;reviews_summary.csv#date#us_perm_visas.csv#ri_local_ethnic_paper_from;1
+reviews_summary.csv;date;us_perm_visas.csv;ri_local_ethnic_paper_to;reviews_summary.csv#date#us_perm_visas.csv#ri_local_ethnic_paper_to;1
+reviews_summary.csv;date;us_perm_visas.csv;ri_pvt_employment_firm_from;reviews_summary.csv#date#us_perm_visas.csv#ri_pvt_employment_firm_from;1
+reviews_summary.csv;date;us_perm_visas.csv;ri_pvt_employment_firm_to;reviews_summary.csv#date#us_perm_visas.csv#ri_pvt_employment_firm_to;1
+Consumer_Complaints.csv;State;us_perm_visas.csv;agent_state;Consumer_Complaints.csv#State#us_perm_visas.csv#agent_state;1
+Consumer_Complaints.csv;State;us_perm_visas.csv;employer_state;Consumer_Complaints.csv#State#us_perm_visas.csv#employer_state;1
+Consumer_Complaints.csv;State;us_perm_visas.csv;foreign_worker_info_state;Consumer_Complaints.csv#State#us_perm_visas.csv#foreign_worker_info_state;1
+Consumer_Complaints.csv;ZIP code;us_perm_visas.csv;job_info_work_postal_code;Consumer_Complaints.csv#ZIP code#us_perm_visas.csv#job_info_work_postal_code;1
+Consumer_Complaints.csv;State;us_perm_visas.csv;job_info_work_state;Consumer_Complaints.csv#State#us_perm_visas.csv#job_info_work_state;1
+reviews_detailed.csv;date;us_perm_visas.csv;case_received_date;reviews_detailed.csv#date#us_perm_visas.csv#case_received_date;1
+reviews_detailed.csv;date;us_perm_visas.csv;decision_date;reviews_detailed.csv#date#us_perm_visas.csv#decision_date;1
+reviews_detailed.csv;date;us_perm_visas.csv;recr_info_first_ad_start;reviews_detailed.csv#date#us_perm_visas.csv#recr_info_first_ad_start;1
+reviews_detailed.csv;date;us_perm_visas.csv;recr_info_on_campus_recr_to;reviews_detailed.csv#date#us_perm_visas.csv#recr_info_on_campus_recr_to;1
+reviews_detailed.csv;date;us_perm_visas.csv;recr_info_pro_org_advert_to;reviews_detailed.csv#date#us_perm_visas.csv#recr_info_pro_org_advert_to;1
+reviews_detailed.csv;date;us_perm_visas.csv;recr_info_prof_org_advert_from;reviews_detailed.csv#date#us_perm_visas.csv#recr_info_prof_org_advert_from;1
+reviews_detailed.csv;date;us_perm_visas.csv;recr_info_prof_org_advert_to;reviews_detailed.csv#date#us_perm_visas.csv#recr_info_prof_org_advert_to;1
+reviews_detailed.csv;date;us_perm_visas.csv;recr_info_radio_tv_ad_from;reviews_detailed.csv#date#us_perm_visas.csv#recr_info_radio_tv_ad_from;1
+reviews_detailed.csv;date;us_perm_visas.csv;recr_info_radio_tv_ad_to;reviews_detailed.csv#date#us_perm_visas.csv#recr_info_radio_tv_ad_to;1
+reviews_detailed.csv;date;us_perm_visas.csv;recr_info_second_ad_start;reviews_detailed.csv#date#us_perm_visas.csv#recr_info_second_ad_start;1
+reviews_detailed.csv;date;us_perm_visas.csv;recr_info_swa_job_order_end;reviews_detailed.csv#date#us_perm_visas.csv#recr_info_swa_job_order_end;1
+reviews_detailed.csv;date;us_perm_visas.csv;recr_info_swa_job_order_start;reviews_detailed.csv#date#us_perm_visas.csv#recr_info_swa_job_order_start;1
+reviews_detailed.csv;date;us_perm_visas.csv;ri_campus_placement_from;reviews_detailed.csv#date#us_perm_visas.csv#ri_campus_placement_from;1
+reviews_detailed.csv;date;us_perm_visas.csv;ri_campus_placement_to;reviews_detailed.csv#date#us_perm_visas.csv#ri_campus_placement_to;1
+reviews_detailed.csv;date;us_perm_visas.csv;ri_coll_teach_select_date;reviews_detailed.csv#date#us_perm_visas.csv#ri_coll_teach_select_date;1
+reviews_detailed.csv;date;us_perm_visas.csv;ri_employee_referral_prog_from;reviews_detailed.csv#date#us_perm_visas.csv#ri_employee_referral_prog_from;1
+reviews_detailed.csv;date;us_perm_visas.csv;ri_employee_referral_prog_to;reviews_detailed.csv#date#us_perm_visas.csv#ri_employee_referral_prog_to;1
+reviews_detailed.csv;date;us_perm_visas.csv;ri_employer_web_post_from;reviews_detailed.csv#date#us_perm_visas.csv#ri_employer_web_post_from;1
+reviews_detailed.csv;date;us_perm_visas.csv;ri_employer_web_post_to;reviews_detailed.csv#date#us_perm_visas.csv#ri_employer_web_post_to;1
+reviews_detailed.csv;date;us_perm_visas.csv;ri_job_search_website_from;reviews_detailed.csv#date#us_perm_visas.csv#ri_job_search_website_from;1
+reviews_detailed.csv;date;us_perm_visas.csv;ri_job_search_website_to;reviews_detailed.csv#date#us_perm_visas.csv#ri_job_search_website_to;1
+reviews_detailed.csv;date;us_perm_visas.csv;ri_local_ethnic_paper_from;reviews_detailed.csv#date#us_perm_visas.csv#ri_local_ethnic_paper_from;1
+reviews_detailed.csv;date;us_perm_visas.csv;ri_local_ethnic_paper_to;reviews_detailed.csv#date#us_perm_visas.csv#ri_local_ethnic_paper_to;1
+reviews_detailed.csv;date;us_perm_visas.csv;ri_pvt_employment_firm_from;reviews_detailed.csv#date#us_perm_visas.csv#ri_pvt_employment_firm_from;1
+reviews_detailed.csv;date;us_perm_visas.csv;ri_pvt_employment_firm_to;reviews_detailed.csv#date#us_perm_visas.csv#ri_pvt_employment_firm_to;1
+us_perm_visas.csv;foreign_worker_info_alt_edu_experience;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#foreign_worker_info_alt_edu_experience#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;foreign_worker_info_rel_occup_exp;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#foreign_worker_info_rel_occup_exp#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;foreign_worker_info_req_experience;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#foreign_worker_info_req_experience#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;foreign_worker_info_training_comp;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#foreign_worker_info_training_comp#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;foreign_worker_ownership_interest;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#foreign_worker_ownership_interest#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;fw_info_alt_edu_experience;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#fw_info_alt_edu_experience#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;fw_info_rel_occup_exp;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#fw_info_rel_occup_exp#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;fw_info_req_experience;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#fw_info_req_experience#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;fw_info_training_comp;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#fw_info_training_comp#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;fw_ownership_interest;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#fw_ownership_interest#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;ji_foreign_worker_live_on_premises;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#ji_foreign_worker_live_on_premises#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;ji_fw_live_on_premises;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#ji_fw_live_on_premises#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;ji_live_in_dom_svc_contract;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#ji_live_in_dom_svc_contract#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;ji_live_in_domestic_service;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#ji_live_in_domestic_service#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;ji_offered_to_sec_j_foreign_worker;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#ji_offered_to_sec_j_foreign_worker#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;ji_offered_to_sec_j_fw;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#ji_offered_to_sec_j_fw#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;job_info_alt_combo_ed_exp;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#job_info_alt_combo_ed_exp#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;job_info_alt_field;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#job_info_alt_field#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;job_info_combo_occupation;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#job_info_combo_occupation#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;job_info_experience;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#job_info_experience#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;job_info_foreign_ed;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#job_info_foreign_ed#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;job_info_foreign_lang_req;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#job_info_foreign_lang_req#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;job_info_job_req_normal;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#job_info_job_req_normal#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;job_info_training;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#job_info_training#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;preparer_info_emp_completed;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#preparer_info_emp_completed#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;rec_info_barg_rep_notified;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#rec_info_barg_rep_notified#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;recr_info_barg_rep_notified;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#recr_info_barg_rep_notified#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;recr_info_coll_teach_comp_proc;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#recr_info_coll_teach_comp_proc#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;recr_info_coll_univ_teacher;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#recr_info_coll_univ_teacher#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;recr_info_employer_rec_payment;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#recr_info_employer_rec_payment#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;recr_info_professional_occ;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#recr_info_professional_occ#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;recr_info_sunday_newspaper;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#recr_info_sunday_newspaper#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;refile;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#refile#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;ri_2nd_ad_newspaper_or_journal;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#ri_2nd_ad_newspaper_or_journal#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;ri_coll_tch_basic_process;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#ri_coll_tch_basic_process#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;ri_layoff_in_past_six_months;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#ri_layoff_in_past_six_months#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;ri_posted_notice_at_worksite;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#ri_posted_notice_at_worksite#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;ri_us_workers_considered;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#ri_us_workers_considered#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+us_perm_visas.csv;schd_a_sheepherder;yellow_tripdata_2019-01.csv;store_and_fwd_flag;us_perm_visas.csv#schd_a_sheepherder#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+Consumer_Complaints.csv;ZIP code;az.csv;POSTCODE;Consumer_Complaints.csv#ZIP code#az.csv#POSTCODE;1
+property-tax-report.csv;LOT;utterances.csv;episode_order;property-tax-report.csv#LOT#utterances.csv#episode_order;1
+Consumer_Complaints.csv;Timely response;homicide_reports.csv;Crime Solved;Consumer_Complaints.csv#Timely response#homicide_reports.csv#Crime Solved;1
+Consumer_Complaints.csv;Consumer disputed;homicide_reports.csv;Crime Solved;Consumer_Complaints.csv#Consumer disputed#homicide_reports.csv#Crime Solved;1
+2020-04-16 Coronavirus Tweets.CSV;country_code;2020-04-25 Coronavirus Tweets.CSV;country_code;2020-04-16 Coronavirus Tweets.CSV#country_code#2020-04-25 Coronavirus Tweets.CSV#country_code;4
+2020-04-16 Coronavirus Tweets.CSV;place_type;2020-04-25 Coronavirus Tweets.CSV;place_type;2020-04-16 Coronavirus Tweets.CSV#place_type#2020-04-25 Coronavirus Tweets.CSV#place_type;4
+2020-04-16 Coronavirus Tweets.CSV;lang;2020-04-25 Coronavirus Tweets.CSV;lang;2020-04-16 Coronavirus Tweets.CSV#lang#2020-04-25 Coronavirus Tweets.CSV#lang;4
+Chicago_Crimes_2005_to_2007.csv;Block;Chicago_Crimes_2008_to_2011.csv;Block;Chicago_Crimes_2005_to_2007.csv#Block#Chicago_Crimes_2008_to_2011.csv#Block;4
+Chicago_Crimes_2005_to_2007.csv;IUCR;Chicago_Crimes_2008_to_2011.csv;IUCR;Chicago_Crimes_2005_to_2007.csv#IUCR#Chicago_Crimes_2008_to_2011.csv#IUCR;4
+Chicago_Crimes_2005_to_2007.csv;Primary Type;Chicago_Crimes_2008_to_2011.csv;Primary Type;Chicago_Crimes_2005_to_2007.csv#Primary Type#Chicago_Crimes_2008_to_2011.csv#Primary Type;4
+Chicago_Crimes_2005_to_2007.csv;Description;Chicago_Crimes_2008_to_2011.csv;Description;Chicago_Crimes_2005_to_2007.csv#Description#Chicago_Crimes_2008_to_2011.csv#Description;4
+Chicago_Crimes_2005_to_2007.csv;Location Description;Chicago_Crimes_2008_to_2011.csv;Location Description;Chicago_Crimes_2005_to_2007.csv#Location Description#Chicago_Crimes_2008_to_2011.csv#Location Description;4
+Chicago_Crimes_2005_to_2007.csv;FBI Code;Chicago_Crimes_2008_to_2011.csv;FBI Code;Chicago_Crimes_2005_to_2007.csv#FBI Code#Chicago_Crimes_2008_to_2011.csv#FBI Code;4
+Chicago_Crimes_2001_to_2004.csv;Block;Chicago_Crimes_2008_to_2011.csv;Block;Chicago_Crimes_2001_to_2004.csv#Block#Chicago_Crimes_2008_to_2011.csv#Block;4
+Chicago_Crimes_2001_to_2004.csv;IUCR;Chicago_Crimes_2008_to_2011.csv;IUCR;Chicago_Crimes_2001_to_2004.csv#IUCR#Chicago_Crimes_2008_to_2011.csv#IUCR;4
+Chicago_Crimes_2001_to_2004.csv;Primary Type;Chicago_Crimes_2008_to_2011.csv;Primary Type;Chicago_Crimes_2001_to_2004.csv#Primary Type#Chicago_Crimes_2008_to_2011.csv#Primary Type;4
+Chicago_Crimes_2001_to_2004.csv;Description;Chicago_Crimes_2008_to_2011.csv;Description;Chicago_Crimes_2001_to_2004.csv#Description#Chicago_Crimes_2008_to_2011.csv#Description;4
+Chicago_Crimes_2001_to_2004.csv;Location Description;Chicago_Crimes_2008_to_2011.csv;Location Description;Chicago_Crimes_2001_to_2004.csv#Location Description#Chicago_Crimes_2008_to_2011.csv#Location Description;4
+Chicago_Crimes_2001_to_2004.csv;FBI Code;Chicago_Crimes_2008_to_2011.csv;FBI Code;Chicago_Crimes_2001_to_2004.csv#FBI Code#Chicago_Crimes_2008_to_2011.csv#FBI Code;4
+previous_application.csv;FLAG_LAST_APPL_PER_CONTRACT;yellow_tripdata_2019-01.csv;store_and_fwd_flag;previous_application.csv#FLAG_LAST_APPL_PER_CONTRACT#yellow_tripdata_2019-01.csv#store_and_fwd_flag;1
+Chicago_Crimes_2001_to_2004.csv;Block;Chicago_Crimes_2005_to_2007.csv;Block;Chicago_Crimes_2001_to_2004.csv#Block#Chicago_Crimes_2005_to_2007.csv#Block;4
+Chicago_Crimes_2001_to_2004.csv;IUCR;Chicago_Crimes_2005_to_2007.csv;IUCR;Chicago_Crimes_2001_to_2004.csv#IUCR#Chicago_Crimes_2005_to_2007.csv#IUCR;4
+Chicago_Crimes_2001_to_2004.csv;Primary Type;Chicago_Crimes_2005_to_2007.csv;Primary Type;Chicago_Crimes_2001_to_2004.csv#Primary Type#Chicago_Crimes_2005_to_2007.csv#Primary Type;4
+Chicago_Crimes_2001_to_2004.csv;Description;Chicago_Crimes_2005_to_2007.csv;Description;Chicago_Crimes_2001_to_2004.csv#Description#Chicago_Crimes_2005_to_2007.csv#Description;4
+Chicago_Crimes_2001_to_2004.csv;Location Description;Chicago_Crimes_2005_to_2007.csv;Location Description;Chicago_Crimes_2001_to_2004.csv#Location Description#Chicago_Crimes_2005_to_2007.csv#Location Description;4
+Chicago_Crimes_2001_to_2004.csv;FBI Code;Chicago_Crimes_2005_to_2007.csv;FBI Code;Chicago_Crimes_2001_to_2004.csv#FBI Code#Chicago_Crimes_2005_to_2007.csv#FBI Code;4
+COTAHIST_A2009_to_A2019.csv;DATPRE;reviews_detailed.csv;date;COTAHIST_A2009_to_A2019.csv#DATPRE#reviews_detailed.csv#date;3
+Consumer_Complaints.csv;State;eo3.csv;STATE;Consumer_Complaints.csv#State#eo3.csv#STATE;4
+reviews_detailed.csv;date;reviews_summary.csv;date;reviews_detailed.csv#date#reviews_summary.csv#date;4
+Consumer_Complaints.csv;State;eo2.csv;STATE;Consumer_Complaints.csv#State#eo2.csv#STATE;4
